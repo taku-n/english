@@ -10,6 +10,10 @@ I have a fever and cough. （It） Seems like I caught a cold.
 She seems to have been sick.  
 （彼女は病気だったらしい）
 
+Seems like it.  
+Seems so.  
+（そうみたいだね）
+
 ## Words
 
 rot  
