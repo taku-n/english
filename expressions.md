@@ -2,6 +2,11 @@
 
 ## Phrases
 
+〈Not bad〉➡〈Better〉
+Nice to meet you. ➡ Itʼs nice to meet you.
+Pleasure to meet you. ➡ Itʼs a pleasure to meet you.
+Pleased to meet you. ➡ Iʼm pleased to meet you.
+
 ### seem
 
 I have a fever and cough. （It） Seems like I caught a cold.  
