@@ -2,10 +2,10 @@
 
 ## Phrases
 
-〈Not bad〉➡〈Better〉
-Nice to meet you. ➡ Itʼs nice to meet you.
-Pleasure to meet you. ➡ Itʼs a pleasure to meet you.
-Pleased to meet you. ➡ Iʼm pleased to meet you.
+〈Not bad〉➡〈Better〉  
+Nice to meet you. ➡ Itʼs nice to meet you.  
+Pleasure to meet you. ➡ Itʼs a pleasure to meet you.  
+Pleased to meet you. ➡ Iʼm pleased to meet you.  
 
 ### seem
 
@@ -31,6 +31,11 @@ Seems so.
 同じ和訳になりますが、「to be（to不定詞）」が少し客観的な言い方になります。自分だけの感想ではなく、何かしらの情報などがあった場合に使えます。
 
 微妙なニュアンスの違いですが、覚えておくと便利です。
+
+### then
+
+then は副詞であり接続詞ではない  
+文をつなげたければ ... and then ...  
 
 ## Words
 
