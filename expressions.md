@@ -37,6 +37,10 @@ Seems so.
 then は副詞であり接続詞ではない  
 文をつなげたければ ... and then ...  
 
+### go
+
+Would you like to go on a date with me?
+
 ## Words
 
 rot  
