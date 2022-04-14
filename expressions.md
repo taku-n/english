@@ -42,3 +42,4 @@ then は副詞であり接続詞ではない
 rot  
 smack  
 feeling  
+anxiety is a noun  
