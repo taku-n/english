@@ -41,6 +41,15 @@ then は副詞であり接続詞ではない
 
 Would you like to go on a date with me?
 
+### stand
+
+”stand for 〜” で「〜を表す」という意味があるので、例えば、
+
+    AI stands for Artificial Intelligence.
+
+What does 〜 stand for?
+〜は何の略ですか？（〜は何を表していますか？）
+
 ## Words
 
 rot  
