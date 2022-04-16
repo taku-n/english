@@ -38,6 +38,10 @@ Seems so.
 then は副詞であり接続詞ではない  
 文をつなげたければ ... and then ...  
 
+### so
+
+https://eigobu.jp/magazine/so
+
 ### go
 
 Would you like to go on a date with me?
