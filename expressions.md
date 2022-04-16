@@ -59,6 +59,10 @@ What does 〜 stand for?
 
 I can not pay rent. 家賃を払えない。  
 
+### remind
+
+https://study-z.net/17661
+
 ## Linkings, Reductions and Flappings
 
 you -> ya  
