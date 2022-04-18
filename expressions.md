@@ -63,6 +63,12 @@ I can not pay rent. 家賃を払えない。
 
 https://study-z.net/17661
 
+### shake
+
+Your hands are shaking.  
+My body is shaking.  
+I can't stop shaking.  
+
 ## Linkings, Reductions and Flappings
 
 you -> ya  
@@ -79,14 +85,21 @@ gtg: I gotta go 「I have to」と「I’ve got to」はまったく同じ「し
 imao: in my arrogant opinion  
 Ima: I am going to (but nearer at the time)  
 brb: be right back  
+brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 
 ## Words
 
-rot  
-smack  
-feeling  
-anxiety is a noun  
-grant  
-outage  
-swear  
-confession  
+0001 rot  
+0002 smack  
+0003 feeling  
+0004 anxiety is a noun  
+0005 grant  
+0006 outage  
+0007 swear  
+0008 confession  
+0009 endearment  
+0010 sue  
+
+0001 a  
+0002 b  
+0010 訴える  
