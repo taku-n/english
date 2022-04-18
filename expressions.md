@@ -109,6 +109,7 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 0011 bork  
 0012 green light  
 0013 frighten  
+0014 indifferent  
 
 0000 反逆者  
 0001 a  
@@ -117,3 +118,4 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 0011 めちゃくちゃにする  
 0012 青信号  
 0013 怖がらせる  
+0014 無関心な  
