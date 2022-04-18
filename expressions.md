@@ -89,6 +89,7 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 
 ## Words
 
+0000 rebel  
 0001 rot  
 0002 smack  
 0003 feeling  
@@ -101,6 +102,7 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 0010 sue  
 0011 bork  
 
+0000 反逆者  
 0001 a  
 0002 b  
 0010 訴える  
