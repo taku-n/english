@@ -108,6 +108,7 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 0010 sue  
 0011 bork  
 0012 green light  
+0013 frighten  
 
 0000 反逆者  
 0001 a  
@@ -115,3 +116,4 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 0010 訴える  
 0011 めちゃくちゃにする  
 0012 青信号  
+0013 怖がらせる  
