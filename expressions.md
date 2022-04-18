@@ -33,6 +33,12 @@ Seems so.
 
 微妙なニュアンスの違いですが、覚えておくと便利です。
 
+### hear
+
+Have you ever heard of (it|him|her|them)?  
+知ってる?  
+https://www.youtube.com/watch?v=wLDARqOuszw  
+
 ### then
 
 then は副詞であり接続詞ではない  
@@ -101,9 +107,11 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 0009 endearment  
 0010 sue  
 0011 bork  
+0012 green light  
 
 0000 反逆者  
 0001 a  
 0002 b  
 0010 訴える  
 0011 めちゃくちゃにする  
+0012 青信号  
