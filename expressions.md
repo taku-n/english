@@ -99,7 +99,9 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 0008 confession  
 0009 endearment  
 0010 sue  
+0011 bork  
 
 0001 a  
 0002 b  
 0010 訴える  
+0011 めちゃくちゃにする  
