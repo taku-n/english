@@ -154,6 +154,7 @@ Ima: I am going to (but nearer at the time)
 brb: be right back  
 brub, bruh: a term of an endearment made by combining 'bro' and 'bub'  
 welp: well + help 希望がない感じを伴う  
+nvm: never mind  
 
 ## Words
 
