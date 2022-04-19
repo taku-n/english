@@ -10,6 +10,9 @@ Why do you think so? -> What makes you think so?
 
 Have a good one. - You too.  
 
+I don't mind. どっちでもいいですよ（かまいませんよ）  
+I don't care. どうでもいいよ（ご勝手に）  
+
 ### dare
 
 助動
