@@ -39,6 +39,10 @@ Have you ever heard of (it|him|her|them)?
 知ってる?  
 https://www.youtube.com/watch?v=wLDARqOuszw  
 
+### kind
+
+Kind of like that. そんな感じ  
+
 ### mind
 
 Would you mind not calling me? わたしに電話しないでいただけますか  
@@ -129,6 +133,7 @@ heard it -> heardit
 heard him -> heardim  
 heard her -> hearder  
 heard them -> heardem  
+kind of -> kinda  
 
 ## Abbreviations
 
