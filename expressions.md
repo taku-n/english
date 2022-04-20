@@ -190,7 +190,7 @@ nvm: never mind
 0009 endearment  
 0010 sue  
 0011 bork  
-0012   
+0012 handsome  
 0013 frighten  
 0014 indifferent  
 0015 toss  
@@ -227,7 +227,7 @@ nvm: never mind
 0002 b  
 0010 訴える  
 0011 めちゃくちゃにする  
-0012   
+0012 ハンサムな  
 0013 怖がらせる  
 0014 無関心な  
 0015 軽く放る  
