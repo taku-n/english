@@ -131,6 +131,10 @@ then は副詞であり接続詞ではない
 Time and tide wait for no man.  
 歳月人を待たず。  
 
+### want
+
+I want my flight money back. 飛行機代を返せ  
+
 ## Linkings, Reductions and Flappings
 
 you -> ya  
@@ -156,6 +160,22 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 welp: well + help 希望がない感じを伴う  
 nvm: never mind  
 
+## Idioms
+
+0000 green light  
+0001 kinda sucks  
+0002 (up) until now  
+0003 hand in  
+0004 once in a while  
+0005 (high|low) context  
+
+0000 青信号  
+0001 slightly (bad|enjoyable)  
+0002 今までは  
+0003 提出する  
+0004 たまに  
+0005 https://wordwise.co.jp/topics/high-context-culture-vs-low-context-culture  
+
 ## Words
 
 0000 rebel  
@@ -170,7 +190,7 @@ nvm: never mind
 0009 endearment  
 0010 sue  
 0011 bork  
-0012 green light  
+0012   
 0013 frighten  
 0014 indifferent  
 0015 toss  
@@ -192,21 +212,22 @@ nvm: never mind
 0031 tease  
 0032 pet  
 0033 silly  
-0034 kinda sucks  
+0034   
 0035 jumpy  
 0036 detonation  
-0037 (up) until now  
+0037 
 0038 mess  
-0039 hand in  
-0040 once in a while  
-0041 fortress
+0039 
+0040 
+0041 fortress  
+0042  
 
 0000 反逆者  
 0001 a  
 0002 b  
 0010 訴える  
 0011 めちゃくちゃにする  
-0012 青信号  
+0012   
 0013 怖がらせる  
 0014 無関心な  
 0015 軽く放る  
@@ -228,11 +249,12 @@ nvm: never mind
 0031 からかう  
 0032 愛撫する  
 0033 愚かな  
-0034 slightly (bad|enjoyable)  
+0034 
 0035 ビクビクする  
 0036 爆発  
-0037 今までは  
+0037 
 0038 ゴチャゴチャにする  
-0039 提出する  
-0040 たまに  
+0039 
+0040 
 0041 要塞  
+0042   
