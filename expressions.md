@@ -64,6 +64,14 @@ Kind of like that. そんな感じ
 
 Would you mind not calling me? わたしに電話しないでいただけますか  
 
+### out
+
+What do you like the best out of all fruit?  
+Out of all fruit, what do you like the best?  
+
+He is the smartest out of all my friends.  
+Out of all my friends, he is the smartest.  
+
 ### pay
 
 I can not pay rent. 家賃を払えない。  
