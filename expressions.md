@@ -246,6 +246,7 @@ sus: suspicious 怪しい
 0049 stargaze  
 0050 incorporate  
 0051 pal  
+0052 sloppy  
 
 0000 反逆者  
 0001 腐る  
@@ -299,3 +300,4 @@ sus: suspicious 怪しい
 0049 星を見つめる  
 0050 組み込む  
 0051 なかよし  
+0052 雑な  
