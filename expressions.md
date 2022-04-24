@@ -18,6 +18,10 @@ I don't care. どうでもいいよ（ご勝手に） ネガティブなニュ�
 A: Where do you want to go for dinner?（晩飯のお店、どこにしょ？）  
 B: It doesn’t matter. What do you feel like?（どこでもええんちゃう。あんたはどんな感じなん？）  
 
+You didn't do anything wrong. あなたは悪くない  
+
+How was your day?  今日はどんな 1日 だった?  
+
 ### dare
 
 助動
@@ -47,6 +51,11 @@ Have you ever heard of (it|him|her|them)?
 知ってる?  
 https://www.youtube.com/watch?v=wLDARqOuszw  
 
+### hurt
+
+My teeth hurts. 歯が痛む  
+Does it still hurts? まだ痛みますか  
+
 ### kind
 
 Kind of like that. そんな感じ  
@@ -58,6 +67,10 @@ Would you mind not calling me? わたしに電話しないでいただけます�
 ### pay
 
 I can not pay rent. 家賃を払えない。  
+
+### poor
+
+Poor John. かわいそうなジョン  
 
 ### remind
 
@@ -159,6 +172,7 @@ brb: be right back
 brub, bruh: a term of an endearment made by combining 'bro' and 'bub'  
 welp: well + help 希望がない感じを伴う  
 nvm: never mind  
+sus: suspicious 怪しい  
 
 ## Idioms
 
@@ -168,6 +182,7 @@ nvm: never mind
 0003 hand in  
 0004 once in a while  
 0005 (high|low) context  
+0006 turn over  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -175,6 +190,7 @@ nvm: never mind
 0003 提出する  
 0004 たまに  
 0005 https://wordwise.co.jp/topics/high-context-culture-vs-low-context-culture  
+0006 ひっくり返す  
 
 ## Words
 
@@ -217,10 +233,19 @@ nvm: never mind
 0036 detonation  
 0037 radius  
 0038 mess  
-0039 
-0040 
+0039 breakdown  
+0040 butt  
 0041 fortress  
-0042  
+0042 frighten  
+0043 jerk  
+0044 tomboy  
+0045 simp  
+0046 creep  
+0047 convulsion  
+0048 addict 名前動後  
+0049 stargaze  
+0050 incorporate  
+0051 pal  
 
 0000 反逆者  
 0001 腐る  
@@ -261,7 +286,16 @@ nvm: never mind
 0036 爆発  
 0037 区域  
 0038 ゴチャゴチャにする  
-0039 
-0040 
+0039 故障, 衰弱  
+0040 尻  
 0041 要塞  
-0042   
+0042 怖がらせる  
+0043 けいれんする  
+0044 おてんば娘  
+0045 someone who tries too hard to do what another person wants, especially in a romantic relationship  
+0046 ゾッとさせる  
+0047 けいれん  
+0048 中毒者  
+0049 星を見つめる  
+0050 組み込む  
+0051 なかよし  
