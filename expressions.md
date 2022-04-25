@@ -257,6 +257,7 @@ sus: suspicious 怪しい
 0052 sloppy  
 0053 coordinate  
 0054 thick  
+0055 reason  
 
 0000 反逆者  
 0001 腐る  
@@ -313,3 +314,4 @@ sus: suspicious 怪しい
 0052 雑な  
 0053 コーディネート  
 0054 太い  
+0055 理性  
