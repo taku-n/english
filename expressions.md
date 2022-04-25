@@ -255,6 +255,8 @@ sus: suspicious 怪しい
 0050 incorporate  
 0051 pal  
 0052 sloppy  
+0053 coordinate  
+0054 thick  
 
 0000 反逆者  
 0001 腐る  
@@ -309,3 +311,5 @@ sus: suspicious 怪しい
 0050 組み込む  
 0051 なかよし  
 0052 雑な  
+0053 コーディネート  
+0054 太い  
