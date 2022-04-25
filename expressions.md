@@ -39,7 +39,8 @@ I get motion sickness.  乗り物酔いする
 
 ### go
 
-Would you like to go on a date with me?
+Would you like to go on a date with me?  
+Let's go watch a movie togather sometime.  
 
 ### have
 
