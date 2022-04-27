@@ -28,6 +28,10 @@ You didn't do anything wrong. あなたは悪くない
 
 How was your day?  今日はどんな 1日 だった?  
 
+### ask
+
+Could I ask you something? お願いがあるのですが  
+
 ### business
 
 This may be none of my business but ... 余計なお世話かもしれないけど ...  
@@ -110,6 +114,17 @@ If he says "I'm into girls", he means I like girls only or I adore girls only an
 ### kind
 
 Kind of like that. そんな感じ  
+
+### last
+
+one last 最後の1回の  
+Give me one last hug. 最後にもう一度だけ私を抱き締めてください。  
+
+one last time 最後にもう一度（だけ）  
+We kissed one last time. : 最後にもう一度キスした。  
+I'm gonna ask you one last time. : 最後にもう一度聞く［尋ねる］。  
+I just wanted to see him one last time. : 最後にもう一度彼に会いたかった。  
+I just wish I could talk to you one last time. : 最後にもう一度あなたと話ができればと思ってたんだけど。  
 
 ### make
 
@@ -220,6 +235,10 @@ Your hands are shaking.
 My body is shaking.  
 I can't stop shaking.  
 
+### shout
+
+Give me a shout. 声をかけてね  
+
 ### so
 
 https://eigobu.jp/magazine/so
@@ -315,6 +334,10 @@ sus: suspicious 怪しい
 0013 put my (hat|cap) on  
 0014 stuffed animal  
 0015 break up with  
+0016 be likely to  
+0017 be unlikely to  
+0018 lose heart  
+0019 lean on  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -332,6 +355,10 @@ sus: suspicious 怪しい
 0013 帽子をかぶる  
 0014 ぬいぐるみ  
 0015 破局する  
+0016 する可能性が高い  
+0017 する可能性が低い  
+0018 こころが折れる  
+0019 甘える  
 
 ## Words
 
@@ -418,6 +445,9 @@ sus: suspicious 怪しい
 0090 praise  
 0091 cage  
 0092 stuff  
+0093 hoe hóu  
+0094 whore  
+0095 swag swǽg  
 
 0000 反逆者  
 0001 腐る  
@@ -502,3 +532,6 @@ sus: suspicious 怪しい
 0090 ほめる  
 0091 おり  
 0092 詰め込む  
+0093 売春婦  
+0094 売春婦  
+0095 よろめく, ぐらつく  
