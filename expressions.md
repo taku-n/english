@@ -398,6 +398,7 @@ sus: suspicious 怪しい
 0088 cuckold  
 0089 negation nigéiʃən  
 0090 praise  
+0091 cage  
 
 0000 反逆者  
 0001 腐る  
@@ -480,3 +481,4 @@ sus: suspicious 怪しい
 0078 NTR  
 0089 否定すること  
 0090 ほめる  
+0091 おり  
