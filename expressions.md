@@ -297,6 +297,8 @@ sus: suspicious 怪しい
 
 ## Idioms
 
+[以上, 以下](https://juken.oricon.co.jp/rank_english/news/2071623/)  
+
 0000 green light  
 0001 kinda sucks  
 0002 (up) until now  
