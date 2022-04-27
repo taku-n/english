@@ -1,5 +1,11 @@
 # Expressions
 
+## Grammar
+
+### Gerund
+
+https://toiguru.jp/gerund  
+
 ## Phrases
 
 〈Not bad〉➡〈Better〉  
@@ -22,6 +28,11 @@ You didn't do anything wrong. あなたは悪くない
 
 How was your day?  今日はどんな 1日 だった?  
 
+### close
+
+She is close to me. 彼女とは親しいんです  
+She is my close friend. 彼女とは親しいんです  
+
 ### dare
 
 助動
@@ -29,18 +40,49 @@ How was your day?  今日はどんな 1日 だった?
     あえて［思い切って・恐れずに・平気で・大胆にも］～する、～する勇気がある◆通例、否定文・疑問文
     ・Dare you tell a pack of lies? : 君は空々しいうそをつくつもりなのかい。
 
+### deserve
+
+I don't deserve to live. わたしは生きる価値がない  
+
+### do
+
+What do you like to do in your free time? 暇なときなにしてるの  
+
 ### feel
 
-I feel like crying. 泣きたい気持ちだ
+I feel like crying. 泣きたい気持ちだ  
+I don't feel like going. 行く気がしない  
+I feel sorry for him. 彼はかわいそうだ (かわいそうな本人に言うと蔑んでいるようになる)  
+How do you feel? どんな気分  
+How do you feel about the music? あの音楽についてどう感じる  
+
+### fine
+
+You don't have to pretend to be fine. 無理に元気なふりをしなくていいよ  
+
+### force
+
+Don't force yourself. 無理しないでね  
 
 ### get
 
 I get motion sickness.  乗り物酔いする  
+Make sure to get plenty of rest. しっかり休んでね  
 
 ### go
 
 Would you like to go on a date with me?  
 Let's go watch a movie togather sometime.  
+
+### google
+
+Try googling “simple recipes.” 「簡単なレシピ」でググってみて  
+What should I google? 何を検索すればいいの  
+
+### hard
+
+That must be hard for you. つらいでしょうね  
+Don't be too hard on yourself. 自分に厳しくしすぎないでね  
 
 ### have
 
@@ -57,13 +99,36 @@ https://www.youtube.com/watch?v=wLDARqOuszw
 My teeth hurts. 歯が痛む  
 Does it still hurts? まだ痛みますか  
 
+### into
+
+If he says "I'm into girls", he means I like girls only or I adore girls only and that he doesn't like guys.
+
 ### kind
 
 Kind of like that. そんな感じ  
 
+### make
+
+Can you make it? できそうですか  
+I will try my best to make it. なんとかしてみます  
+
 ### mind
 
 Would you mind not calling me? わたしに電話しないでいただけますか  
+
+### mist
+
+My glasses mist up. メガネがくもる  
+
+### not
+
+[Partial Negation](https://manab-juku.me/english/complete-partial-negation/)
+
+not really それほど ... でない
+I don't really eat it. あまり食べない  
+
+It's not that ... . というわけではない  
+It's not that I dislike Yakiniku. 焼肉が嫌いというわけではない  
 
 ### out
 
@@ -73,6 +138,10 @@ Out of all fruit, what do you like the best?
 He is the smartest out of all my friends.  
 Out of all my friends, he is the smartest.  
 
+### pain
+
+That's a pain. それはつらいね  
+
 ### pay
 
 I can not pay rent. 家賃を払えない。  
@@ -81,14 +150,30 @@ I can not pay rent. 家賃を払えない。
 
 Poor John. かわいそうなジョン  
 
+### pressure
+
+No pressure. プレッシャーに思わないでね  
+
+### relax
+
+You should relax. リラックスしてね  
+
 ### remind
 
 https://study-z.net/17661
+
+### rush
+
+No rush. ゆっくりね  
 
 ### say
 
 "Please don't say something like that" とは「そんなこと言わないでください」  
 Don't say that.  
+
+### see
+
+I've never seen ... before. いまはじめて見た。まだ見たことがない  
 
 ### seem
 
@@ -138,6 +223,11 @@ What does 〜 stand for?
 
 take in air 空気を吸い込む  
 Take me with you. 連れて行って  
+You should take it easy.  がんばりすぎないでね  
+https://mysuki.jp/english-take-it-easy-9684  
+Take care of yourself.  (体調が悪いひとに) お大事にね  
+Take a rest. 休んでね  
+Take one step at a time. 一歩ずつでいいからね  
 
 ### tease
 
@@ -147,6 +237,10 @@ I am teasing him. 彼を焦らしている
 
 then は副詞であり接続詞ではない  
 文をつなげたければ ... and then ...  
+
+### think
+
+I thought ... かと思っていた  
 
 ### wait
 
@@ -192,6 +286,14 @@ sus: suspicious 怪しい
 0004 once in a while  
 0005 (high|low) context  
 0006 turn over  
+0007 get to know  
+0008 get along with  
+0009 get rid of  
+0010 sea cucumber  
+0011 half a month  
+0012 take good care of  
+0013 put my (hat|cap) on  
+0014 stuffed animal  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -200,6 +302,14 @@ sus: suspicious 怪しい
 0004 たまに  
 0005 https://wordwise.co.jp/topics/high-context-culture-vs-low-context-culture  
 0006 ひっくり返す  
+0007 知るようになる, 知り合いになる  
+0008 仲良くする  
+0009 取り除く  
+0010 なまこ  
+0011 半月  
+0012 大切にする  
+0013 帽子をかぶる  
+0014 ぬいぐるみ  
 
 ## Words
 
@@ -259,6 +369,31 @@ sus: suspicious 怪しい
 0053 coordinate  
 0054 thick  
 0055 reason  
+0056 enjoyable  
+0057 sociable  
+0058 extrovert  
+0059 distraction  
+0060 cucumber  
+0061 apparently  
+0062 obviously  
+0063 jealous  
+0064 jelly  
+0065 envy 
+0066 meridian  
+0067 azure  
+0068 affect  
+0069 sweetheart  
+0070 cherish  
+0071 unfixable  
+0072 finely  
+0073 frank  
+0074 close  
+0075 adore  
+0076 determine  
+0077 constraint kənstréint  
+0088 cuckold  
+0089 negation nigéiʃən  
+0090 praise  
 
 0000 反逆者  
 0001 腐る  
@@ -316,3 +451,28 @@ sus: suspicious 怪しい
 0053 コーディネート  
 0054 太い  
 0055 理性  
+0056 楽しい 楽しめる  
+0057 社交的  
+0058 外交的  
+0059 気を散らすもの  
+0060 きゅうり  
+0061 見た感じ ... のようだ  
+0062 明らかに  
+0063 嫉妬している  
+0064 嫉妬している
+0065 うらやましく思う  
+0066 経線  
+0067 空色  
+0068 影響を与える  
+0069 親切な［優しい］人。すてきな［大切な］もの  
+0070 大切にする  
+0071 固定できない  
+0072 精巧に  
+0073 ぶっきらぼうな  
+0074 親しい  
+0075 熱愛する  
+0076 決心する  
+0077 制限  
+0078 NTR  
+0089 否定すること  
+0090 ほめる  
