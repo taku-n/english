@@ -154,6 +154,11 @@ I can not pay rent. 家賃を払えない。
 
 Poor John. かわいそうなジョン  
 
+### prefer
+
+I prefer antique furniture to the more modern stuff. アンティーク家具の方が、より現代的なものよりも好きです。  
+I'd prefer not to answer that. そのことにはあまりお答えしたくありません。  
+
 ### pressure
 
 No pressure. プレッシャーに思わないでね  
@@ -165,6 +170,11 @@ You should relax. リラックスしてね
 ### remind
 
 https://study-z.net/17661
+
+「remind A of B」には「A（人）にB（名詞）を思い出させる」  
+He reminds me of my father.  彼を見ると私の父を思い出す。（彼と父は似ている）  
+This picture reminds me of my hometown. この写真を見ると故郷を思い出す。  
+That music reminds me of my childhood. その音楽を聴くと子供時代を思い出す。  
 
 ### rush
 
@@ -237,6 +247,10 @@ Take one step at a time. 一歩ずつでいいからね
 
 I am teasing him. 彼を焦らしている  
 
+### thank
+
+Thank you for everything you have done for me. 今までありがとうございました  
+
 ### then
 
 then は副詞であり接続詞ではない  
@@ -298,6 +312,7 @@ sus: suspicious 怪しい
 0012 take good care of  
 0013 put my (hat|cap) on  
 0014 stuffed animal  
+0015 break up with  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -314,6 +329,7 @@ sus: suspicious 怪しい
 0012 大切にする  
 0013 帽子をかぶる  
 0014 ぬいぐるみ  
+0015 破局する  
 
 ## Words
 
@@ -399,6 +415,7 @@ sus: suspicious 怪しい
 0089 negation nigéiʃən  
 0090 praise  
 0091 cage  
+0092 stuff  
 
 0000 反逆者  
 0001 腐る  
@@ -482,3 +499,4 @@ sus: suspicious 怪しい
 0089 否定すること  
 0090 ほめる  
 0091 おり  
+0092 詰め込む  
