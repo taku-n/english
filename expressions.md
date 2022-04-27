@@ -28,6 +28,10 @@ You didn't do anything wrong. あなたは悪くない
 
 How was your day?  今日はどんな 1日 だった?  
 
+### business
+
+This may be none of my business but ... 余計なお世話かもしれないけど ...  
+
 ### close
 
 She is close to me. 彼女とは親しいんです  
