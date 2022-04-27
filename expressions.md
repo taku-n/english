@@ -41,6 +41,10 @@ This may be none of my business but ... 余計なお世話かもしれないけ�
 She is close to me. 彼女とは親しいんです  
 She is my close friend. 彼女とは親しいんです  
 
+### come
+
+I will come to you. 私はあなたのところへ行きます。  
+
 ### dare
 
 助動
@@ -81,6 +85,8 @@ Make sure to get plenty of rest. しっかり休んでね
 
 Would you like to go on a date with me?  
 Let's go watch a movie togather sometime.  
+
+I will go to him. 私は彼のところへ行きます。  
 
 ### google
 
@@ -177,6 +183,14 @@ I'd prefer not to answer that. そのことにはあまりお答えしたくあ�
 ### pressure
 
 No pressure. プレッシャーに思わないでね  
+
+### pretend
+
+・Let's pretend we've never met (before). : 私たちは初対面ということにしておきましょう。  
+・I'm going to pretend I didn't hear that. : 今のは聞かなかったことにしておきましょう。◆【場面】何らかの意味で不都合な相手の発言をなかったことにする。例えば失言を見逃したり、自分に都合悪いことを黙殺したりする時。  
+・I'm going to pretend I didn't see that. : 私は、それを見なかったことにします。  
+・I'm going to pretend that didn't happen. : 私は、それ［今の出来事］が起きなかった、というふりをするつもりです。／なかったことにしよう［しておこう］。◆【場面】不都合な出来事・気まずい出来事などについて。  
+・Let's pretend this never happened. : これは、なかったことにしておきましょう。  
 
 ### relax
 
@@ -282,6 +296,7 @@ then は副詞であり接続詞ではない
 ### think
 
 I thought ... かと思っていた  
+What do you think? どう思いますか  
 
 ### wait
 
