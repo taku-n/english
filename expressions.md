@@ -191,6 +191,10 @@ He reminds me of my father.  彼を見ると私の父を思い出す。（彼と
 This picture reminds me of my hometown. この写真を見ると故郷を思い出す。  
 That music reminds me of my childhood. その音楽を聴くと子供時代を思い出す。  
 
+### rough
+
+When you are having a rough time, つらい目にあっている時  
+
 ### rush
 
 No rush. ゆっくりね  
