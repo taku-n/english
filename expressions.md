@@ -275,6 +275,10 @@ https://eigobu.jp/magazine/so
 What does 〜 stand for?
 〜は何の略ですか？（〜は何を表していますか？）
 
+### sweaty
+
+I'm all sweaty. 汗びっしょりだ  
+
 ### take
 
 take in air 空気を吸い込む  
@@ -476,6 +480,8 @@ sus: suspicious 怪しい
 0093 hoe hóu  
 0094 whore  
 0095 swag swǽg  
+0096 philosophical  
+0097 retro  
 
 0000 反逆者  
 0001 腐る  
@@ -541,7 +547,7 @@ sus: suspicious 怪しい
 0061 見た感じ ... のようだ  
 0062 明らかに  
 0063 嫉妬している  
-0064 嫉妬している
+0064 嫉妬している  
 0065 うらやましく思う  
 0066 経線  
 0067 空色  
@@ -563,3 +569,5 @@ sus: suspicious 怪しい
 0093 売春婦  
 0094 売春婦  
 0095 よろめく, ぐらつく  
+0096 哲学的な  
+0097 レトロ レトロな  
