@@ -68,6 +68,11 @@ I feel sorry for him. 彼はかわいそうだ (かわいそうな本人に言�
 How do you feel? どんな気分  
 How do you feel about the music? あの音楽についてどう感じる  
 
+I feel like I'm coming down with the flu. インフルにかかりかけている気がする  
+I feel like coming down with the flu.  インフルにかかりたいなぁ  
+
+What do you feel like doing? なにしたい  
+
 ### fine
 
 You don't have to pretend to be fine. 無理に元気なふりをしなくていいよ  
@@ -394,7 +399,7 @@ sus: suspicious 怪しい
 0006 outage  
 0007 swear  
 0008 confession  
-0009 endearment  
+0009 endearment * 
 0010 sue  
 0011 bork  
 0012 handsome  
