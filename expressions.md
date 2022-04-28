@@ -357,6 +357,8 @@ sus: suspicious 怪しい
 0017 be unlikely to  
 0018 lose heart  
 0019 lean on  
+0020 to go  
+0021 for here  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -378,6 +380,8 @@ sus: suspicious 怪しい
 0017 する可能性が低い  
 0018 こころが折れる  
 0019 甘える  
+0020 持ち帰り  
+0021 店内飲食  
 
 ## Words
 
