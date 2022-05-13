@@ -514,6 +514,7 @@ scw: sex crazed women
 0111 happily  
 0112 destiny  
 0113 suffer  
+0114 charm  
 
 0000 反逆者  
 0001 腐る  
@@ -619,3 +620,4 @@ scw: sex crazed women
 0111 幸せに  
 0112 運命  
 0113 苦しむ  
+0114 自動詞: 魅力的である  
