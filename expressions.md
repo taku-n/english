@@ -17,7 +17,7 @@ Why do you think so? -> What makes you think so?
 Have a good one. - You too.  
 
 It doesn't matter. 当たり障りのない言い方で「どれでも良いよ」や「何でもいいよ」  
-It’s up to you. 「あなた次第です・あなたに任せます」
+It’s up to you. 「あなた次第です・あなたに任せます」  
 I don't mind. どっちでもいいですよ（かまいませんよ）  
 I don't care. どうでもいいよ（ご勝手に） ネガティブなニュアンス  
 
