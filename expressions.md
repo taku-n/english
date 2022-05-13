@@ -147,6 +147,7 @@ I just wish I could talk to you one last time. : 最後にもう一度あなた�
 
 Can you make it? できそうですか  
 I will try my best to make it. なんとかしてみます  
+It makes me want to ... したくなる  
 
 ### mind
 
@@ -515,6 +516,7 @@ scw: sex crazed women
 0112 destiny  
 0113 suffer  
 0114 charm  
+0115 pretty  
 
 0000 反逆者  
 0001 腐る  
@@ -621,3 +623,4 @@ scw: sex crazed women
 0112 運命  
 0113 苦しむ  
 0114 自動詞: 魅力的である  
+0115 かわいい  
