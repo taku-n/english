@@ -59,6 +59,7 @@ I don't deserve to live. わたしは生きる価値がない
 ### do
 
 What do you like to do in your free time? 暇なときなにしてるの  
+It's a done deal. もう終わったことだ  
 
 ### feel
 
@@ -341,6 +342,7 @@ brub, bruh: a term of an endearment made by combining 'bro' and 'bub'
 welp: well + help 希望がない感じを伴う  
 nvm: never mind  
 sus: suspicious 怪しい  
+scw: sex crazed women  
 
 ## Idioms
 
@@ -482,6 +484,19 @@ sus: suspicious 怪しい
 0095 swag swǽg  
 0096 philosophical  
 0097 retro  
+0098 hazelnut  
+0099 nephew  
+0100 niece  
+0101 dizzy  
+0102 retard  
+0103 pretend  
+0104 brick  
+0105 scatter  
+0106 ammeter ǽmmìtər  
+0107 malfunction mæ̀lfʌ́ŋkʃən  
+0108 reward  
+0109 desperation  
+0110 overthink  
 
 0000 反逆者  
 0001 腐る  
@@ -571,3 +586,16 @@ sus: suspicious 怪しい
 0095 よろめく, ぐらつく  
 0096 哲学的な  
 0097 レトロ レトロな  
+0098 ヘーゼルナッツ  
+0099 おい  
+0100 めい  
+0101 めまいがする  
+0102 がいじ ばか  
+0103 ふりをする人  
+0104 スマホが文鎮になる  
+0105 まき散らす  
+0106 電流計  
+0107 故障  
+0108 褒美  
+0109 やけくそ  
+0110 考えすぎる  
