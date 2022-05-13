@@ -90,6 +90,7 @@ Don't force yourself. 無理しないでね
 
 I get motion sickness.  乗り物酔いする  
 Make sure to get plenty of rest. しっかり休んでね  
+I got to like math. 数学が好きになった  
 
 ### go
 
