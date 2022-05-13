@@ -28,6 +28,10 @@ You didn't do anything wrong. あなたは悪くない
 
 How was your day?  今日はどんな 1日 だった?  
 
+### alone
+
+I was alone with him. 彼と二人きりだった  
+
 ### ask
 
 Could I ask you something? お願いがあるのですが  
@@ -146,6 +150,7 @@ I will try my best to make it. なんとかしてみます
 ### mind
 
 Would you mind not calling me? わたしに電話しないでいただけますか  
+Don't mind me and go enjoy yourself.  わたしのことは気にしなくていいから楽しんできて  
 
 ### mist
 
@@ -197,6 +202,10 @@ No pressure. プレッシャーに思わないでね
 ・I'm going to pretend I didn't see that. : 私は、それを見なかったことにします。  
 ・I'm going to pretend that didn't happen. : 私は、それ［今の出来事］が起きなかった、というふりをするつもりです。／なかったことにしよう［しておこう］。◆【場面】不都合な出来事・気まずい出来事などについて。  
 ・Let's pretend this never happened. : これは、なかったことにしておきましょう。  
+
+### regret
+
+The one thing I regret is that ... 唯一の心残りは  
 
 ### relax
 
@@ -370,6 +379,8 @@ scw: sex crazed women
 0019 lean on  
 0020 to go  
 0021 for here  
+0022 simply put  
+0023 just the two of us  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -393,6 +404,8 @@ scw: sex crazed women
 0019 甘える  
 0020 持ち帰り  
 0021 店内飲食  
+0022 簡単に言うと  
+0023 二人きりで  
 
 ## Words
 
@@ -497,6 +510,9 @@ scw: sex crazed women
 0108 reward  
 0109 desperation  
 0110 overthink  
+0111 happily  
+0112 destiny  
+0113 suffer  
 
 0000 反逆者  
 0001 腐る  
@@ -599,3 +615,6 @@ scw: sex crazed women
 0108 褒美  
 0109 やけくそ  
 0110 考えすぎる  
+0111 幸せに  
+0112 運命  
+0113 苦しむ  
