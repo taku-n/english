@@ -486,7 +486,7 @@ scw: sex crazed women
 0067 azure  
 0068 affect  
 0069 sweetheart  
-0070 cherish  
+0070 cherish *  
 0071 unfixable  
 0072 finely  
 0073 frank  
