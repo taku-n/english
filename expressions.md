@@ -634,6 +634,8 @@ scw: sex crazed women
 0112 distinguish  
 0113 cheer  
 0114 Arabic  
+0115 pity  
+0116 confuse  
 
 0101 幸せに  
 0102 運命  
@@ -649,3 +651,5 @@ scw: sex crazed women
 0112 違いがわかる  
 0113 元気づける  
 0114 アラビア語  
+0115 哀れみ  
+0116 混乱させる  
