@@ -526,6 +526,8 @@ scw: sex crazed women
 0117 jar  
 0118 assume  
 0119 subordinate  
+0120 orgy  
+0121 soda  
 
 0000 反逆者  
 0001 腐る  
@@ -637,3 +639,5 @@ scw: sex crazed women
 0117 不快感を与える  
 0118 推測する  
 0119 部下  
+0120 乱交パーティー  
+0121 サイダー  
