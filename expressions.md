@@ -494,50 +494,39 @@ scw: sex crazed women
 0075 adore  
 0076 determine  
 0077 constraint kənstréint  
-0088 cuckold  
-0089 negation nigéiʃən  
-0090 praise  
-0091 cage  
-0092 stuff  
-0093 hoe hóu  
-0094 whore  
-0095 swag swǽg  
-0096 philosophical  
-0097 retro  
-0098 hazelnut  
-0099 nephew  
-0100 niece  
-0101 dizzy  
-0102 retard  
-0103 pretend  
-0104 brick  
-0105 scatter  
-0106 ammeter ǽmmìtər  
-0107 malfunction mæ̀lfʌ́ŋkʃən  
-0108 reward  
-0109 desperation  
-0110 overthink  
-0111 happily  
-0112 destiny  
-0113 suffer  
-0114 charm  
-0115 pretty  
-0116 faze  
-0117 jar  
-0118 assume  
-0119 subordinate  
-0120 orgy  
-0121 soda  
+0078 cuckold  
+0079 negation nigéiʃən  
+0080 praise  
+0081 cage  
+0082 stuff  
+0083 hoe hóu  
+0084 whore  
+0085 swag swǽg  
+0086 philosophical  
+0087 retro  
+0088 hazelnut  
+0089 nephew  
+0090 niece  
+0091 dizzy  
+0092 retard  
+0093 pretend  
+0094 brick  
+0095 scatter  
+0096 ammeter ǽmmìtər  
+0097 malfunction mæ̀lfʌ́ŋkʃən  
+0098 reward  
+0099 desperation dèspəréiʃən  
+0100 overthink  
 
 0000 反逆者  
 0001 腐る  
 0002 平手打ちする  
-0003  
-0004  
+0003 気持ち  
+0004 不安  
 0005 許可する  
 0006 インフラの停止状態  
-0007  
-0008  
+0007 誓う  
+0008 告白  
 0009 愛情を示す(行為|言葉)  
 0010 訴える  
 0011 めちゃくちゃにする  
@@ -608,36 +597,49 @@ scw: sex crazed women
 0076 決心する  
 0077 制限  
 0078 NTR  
-0089 否定すること  
-0090 ほめる  
-0091 おり  
-0092 詰め込む  
-0093 売春婦  
-0094 売春婦  
-0095 よろめく, ぐらつく  
-0096 哲学的な  
-0097 レトロ レトロな  
-0098 ヘーゼルナッツ  
-0099 おい  
-0100 めい  
-0101 めまいがする  
-0102 がいじ ばか  
-0103 ふりをする人  
-0104 スマホが文鎮になる  
-0105 まき散らす  
-0106 電流計  
-0107 故障  
-0108 褒美  
-0109 やけくそ  
-0110 考えすぎる  
-0111 幸せに  
-0112 運命  
-0113 苦しむ  
-0114 自動詞: 魅力的である  
-0115 かわいい  
-0116 動揺させる (否定文で使う) It didn't faze me. わたしはそれに動揺しなかった  
-0117 不快感を与える  
-0118 推測する  
-0119 部下  
-0120 乱交パーティー  
-0121 サイダー  
+0079 否定すること  
+0080 ほめる  
+0081 おり  
+0082 詰め込む  
+0083 売春婦  
+0084 売春婦  
+0085 よろめく, ぐらつく  
+0086 哲学的な  
+0087 レトロ レトロな  
+0088 ヘーゼルナッツ  
+0089 おい  
+0090 めい  
+0091 めまいがする  
+0092 がいじ ばか  
+0093 ふりをする人  
+0094 スマホが文鎮になる  
+0095 まき散らす  
+0096 電流計  
+0097 故障  
+0098 褒美  
+0099 やけくそ  
+0100 考えすぎる  
+
+0101 happily  
+0102 destiny  
+0103 suffer  
+0104 charm  
+0105 pretty  
+0106 faze  
+0107 jar  
+0108 assume  
+0109 subordinate  
+0110 orgy  
+0111 soda  
+
+0101 幸せに  
+0102 運命  
+0103 苦しむ  
+0104 自動詞: 魅力的である  
+0105 かわいい  
+0106 動揺させる (否定文で使う) It didn't faze me. わたしはそれに動揺しなかった  
+0107 不快感を与える  
+0108 推測する  
+0109 部下  
+0110 乱交パーティー  
+0111 サイダー  
