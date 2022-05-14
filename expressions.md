@@ -631,6 +631,9 @@ scw: sex crazed women
 0109 subordinate  
 0110 orgy  
 0111 soda  
+0112 distinguish  
+0113 cheer  
+0114 Arabic  
 
 0101 幸せに  
 0102 運命  
@@ -643,3 +646,6 @@ scw: sex crazed women
 0109 部下  
 0110 乱交パーティー  
 0111 サイダー  
+0112 違いがわかる  
+0113 元気づける  
+0114 アラビア語  
