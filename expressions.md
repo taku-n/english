@@ -36,6 +36,11 @@ I was alone with him. 彼と二人きりだった
 
 Could I ask you something? お願いがあるのですが  
 
+### assume
+
+I would assume so. そうだと推測します  
+I assume (that) you will show this email to your subordinates. : あなたは、このメールを部下たちに見せますよね  
+
 ### business
 
 This may be none of my business but ... 余計なお世話かもしれないけど ...  
@@ -517,6 +522,10 @@ scw: sex crazed women
 0113 suffer  
 0114 charm  
 0115 pretty  
+0116 faze  
+0117 jar  
+0118 assume  
+0119 subordinate  
 
 0000 反逆者  
 0001 腐る  
@@ -624,3 +633,7 @@ scw: sex crazed women
 0113 苦しむ  
 0114 自動詞: 魅力的である  
 0115 かわいい  
+0116 動揺させる (否定文で使う) It didn't faze me. わたしはそれに動揺しなかった  
+0117 不快感を与える  
+0118 推測する  
+0119 部下  
