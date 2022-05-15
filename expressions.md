@@ -495,8 +495,8 @@ scw: sex crazed women
 0058 extrovert  
 0059 distraction  
 0060 cucumber  
-0061 apparently  
-0062 obviously  
+0061 apparently əpǽrəntli  
+0062 obviously əpǽrəntli  
 0063 jealous  
 0064 jelly  
 0065 envy 
@@ -657,6 +657,7 @@ scw: sex crazed women
 0117 act  
 0118 owe óu  
 0119 insensitive  
+0120 Muslim mʌ́zlim  
 
 0101 幸せに  
 0102 運命  
@@ -677,3 +678,4 @@ scw: sex crazed women
 0117 振る舞う  
 0118 返すべき義務を負っている (あなたには借りがある的な)  
 0119 無神経な 思いやりのない  
+0120 イスラム教徒  
