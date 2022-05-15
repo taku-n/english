@@ -32,6 +32,20 @@ How was your day?  今日はどんな 1日 だった?
 
 I was alone with him. 彼と二人きりだった  
 
+### apologize
+
+He apologized to her for his actions. 彼は自分の行動について彼女に謝った  
+I apologize for not being able to answer your e-mail. メールのご返信ができずに、申し訳ございませんでした  
+No need to apologize. とんでもございません  
+
+### apology
+
+My apologies. 申し訳ありません  
+My apologies for the delay in replying to your email. メールの返信が遅くなりすみません  
+We deeply apologize for the system error. システムエラーについて深くお詫び申し上げます  
+
+I owe you an apology. あなたに謝らないといけません  
+
 ### ask
 
 Could I ask you something? お願いがあるのですが  
@@ -180,6 +194,10 @@ Out of all fruit, what do you like the best?
 
 He is the smartest out of all my friends.  
 Out of all my friends, he is the smartest.  
+
+### owe
+
+I owe everything to you. : 何もかもあなたのおかげです。◆【場面】礼を述べる  
 
 ### pain
 
@@ -425,7 +443,7 @@ scw: sex crazed women
 0006 outage  
 0007 swear  
 0008 confession  
-0009 endearment * 
+0009 endearment *  
 0010 sue  
 0011 bork  
 0012 handsome  
@@ -636,6 +654,9 @@ scw: sex crazed women
 0114 Arabic  
 0115 pity  
 0116 confuse  
+0117 act  
+0118 owe óu  
+0119 insensitive  
 
 0101 幸せに  
 0102 運命  
@@ -653,3 +674,6 @@ scw: sex crazed women
 0114 アラビア語  
 0115 哀れみ  
 0116 混乱させる  
+0117 振る舞う  
+0118 返すべき義務を負っている (あなたには借りがある的な)  
+0119 無神経な 思いやりのない  
