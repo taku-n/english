@@ -262,6 +262,7 @@ Don't say that.
 ### see
 
 I've never seen ... before. いまはじめて見た。まだ見たことがない  
+(I|We)'ll see. あとで決めます  
 
 ### seem
 
