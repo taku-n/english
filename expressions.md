@@ -49,6 +49,7 @@ I owe you an apology. あなたに謝らないといけません
 ### ask
 
 Could I ask you something? お願いがあるのですが  
+Don't hesitate to ask for my help. 助けか必要だったらためらわずに聞いて  
 
 ### assume
 
