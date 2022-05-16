@@ -663,6 +663,11 @@ scw: sex crazed women
 0119 insensitive  
 0120 Muslim mʌ́zlim  
 0121 depress  
+0122 dear  
+0123 adjective  
+0124 noun  
+0125 goodwill  
+0126 pluck  
 
 0101 幸せに  
 0102 運命  
@@ -685,3 +690,8 @@ scw: sex crazed women
 0119 無神経な 思いやりのない  
 0120 イスラム教徒  
 0121 落ち込ませる  
+0122 adj. 親愛な n. 大切な人  
+0123 形容詞  
+0124 名詞  
+0125 友好  
+0126 (困難な状況での) 大胆  
