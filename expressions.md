@@ -668,6 +668,7 @@ scw: sex crazed women
 0124 noun  
 0125 goodwill  
 0126 pluck  
+0127 spirit  
 
 0101 幸せに  
 0102 運命  
@@ -695,3 +696,4 @@ scw: sex crazed women
 0124 名詞  
 0125 友好  
 0126 (困難な状況での) 大胆  
+0127 精霊  
