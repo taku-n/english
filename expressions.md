@@ -408,6 +408,7 @@ scw: sex crazed women
 0021 for here  
 0022 simply put  
 0023 just the two of us  
+0024 make it  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -433,6 +434,7 @@ scw: sex crazed women
 0021 店内飲食  
 0022 簡単に言うと  
 0023 二人きりで  
+0024 うまくやり遂げる If you try, you can make it. なせばなる  
 
 ## Words
 
