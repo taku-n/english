@@ -660,6 +660,7 @@ scw: sex crazed women
 0118 owe óu  
 0119 insensitive  
 0120 Muslim mʌ́zlim  
+0121 depress  
 
 0101 幸せに  
 0102 運命  
@@ -681,3 +682,4 @@ scw: sex crazed women
 0118 返すべき義務を負っている (あなたには借りがある的な)  
 0119 無神経な 思いやりのない  
 0120 イスラム教徒  
+0121 落ち込ませる  
