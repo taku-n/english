@@ -686,6 +686,8 @@ scw: sex crazed women
 0131 dementia diménʃə  
 0132 besides  
 0133 distress  
+0134 beam bim  
+0135 separation  
 
 0101 幸せに  
 0102 運命  
@@ -720,3 +722,5 @@ scw: sex crazed women
 0131 認知症  
 0132 その上 さらに  
 0133 adj. 苦悩している n. 極度の不安  
+0134 にこにこ笑う  
+0135 別離  
