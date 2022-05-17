@@ -683,6 +683,7 @@ scw: sex crazed women
 0128 bio báiou  
 0129 profile próufail  
 0130 relieve  
+0131 dementia diménʃə  
 
 0101 幸せに  
 0102 運命  
@@ -714,3 +715,4 @@ scw: sex crazed women
 0128 プロフィール  
 0129 プロフィール  
 0130 安心させる  
+0131 認知症  
