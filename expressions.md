@@ -685,6 +685,7 @@ scw: sex crazed women
 0130 relieve  
 0131 dementia diménʃə  
 0132 besides  
+0133 distress  
 
 0101 幸せに  
 0102 運命  
@@ -718,3 +719,4 @@ scw: sex crazed women
 0130 安心させる  
 0131 認知症  
 0132 その上 さらに  
+0133 adj. 苦悩している n. 極度の不安  
