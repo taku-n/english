@@ -28,6 +28,14 @@ You didn't do anything wrong. あなたは悪くない
 
 How was your day?  今日はどんな 1日 だった?  
 
+### after
+
+I realized how important he was only after he left. 失ってみて初めて、彼の存在の大きさに気づいた  
+Only after losing him did I realize how important he was.  
+
+I understood how important studying is only after I started working. 働いてみて初めて、勉強の大切さが分かる  
+Only after starting work did I understand how important studying is.  
+
 ### alone
 
 I was alone with him. 彼と二人きりだった  
