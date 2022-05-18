@@ -77,6 +77,10 @@ She is my close friend. 彼女とは親しいんです
 
 I will come to you. 私はあなたのところへ行きます。  
 
+### curious
+
+He is curious about his daughter's activities. 彼は娘の行動を知りたがっています  
+
 ### dare
 
 助動
