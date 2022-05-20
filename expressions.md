@@ -695,8 +695,8 @@ dub: dubbed
 0134 beam bim  
 0135 separation  
 0136 dub  
-0137 mania  
-0138 maniac  
+0137 mania méiniə  
+0138 maniac méiniæ̀k  
 
 0101 幸せに  
 0102 運命  
