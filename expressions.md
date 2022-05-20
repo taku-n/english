@@ -395,7 +395,7 @@ nvm: never mind
 sus: suspicious 怪しい  
 scw: sex crazed women  
 sub: subtitle  
-
+dub: dubbed  
 
 ## Idioms
 
@@ -694,6 +694,7 @@ sub: subtitle
 0133 distress  
 0134 beam bim  
 0135 separation  
+0136 dub  
 
 0101 幸せに  
 0102 運命  
@@ -730,3 +731,4 @@ sub: subtitle
 0133 adj. 苦悩している n. 極度の不安  
 0134 にこにこ笑う  
 0135 別離  
+0136 吹き替える  
