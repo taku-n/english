@@ -697,6 +697,8 @@ dub: dubbed
 0136 dub  
 0137 mania méiniə  
 0138 maniac méiniæ̀k  
+0139 delegate  
+0140 anxious  
 
 0101 幸せに  
 0102 運命  
@@ -736,3 +738,5 @@ dub: dubbed
 0136 吹き替える  
 0137 熱狂 愛着 (マニアな人を指さず)  
 0138 n. マニアな人 adj. 熱狂的な  
+0139 委譲する  
+0140 不安な A slow-growth economy makes workers anxious.  
