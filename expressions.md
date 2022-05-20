@@ -394,6 +394,8 @@ welp: well + help 希望がない感じを伴う
 nvm: never mind  
 sus: suspicious 怪しい  
 scw: sex crazed women  
+sub: subtitle  
+
 
 ## Idioms
 
@@ -518,7 +520,7 @@ scw: sex crazed women
 0062 obviously əpǽrəntli  
 0063 jealous  
 0064 jelly  
-0065 envy 
+0065 envy  
 0066 meridian  
 0067 azure  
 0068 affect  
