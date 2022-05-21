@@ -700,6 +700,7 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0138 maniac méiniæ̀k  
 0139 delegate  
 0140 anxious  
+0141 regarding  
 
 0101 幸せに  
 0102 運命  
@@ -741,3 +742,4 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0138 n. マニアな人 adj. 熱狂的な  
 0139 委譲する  
 0140 不安な A slow-growth economy makes workers anxious.  
+0141 に関して  
