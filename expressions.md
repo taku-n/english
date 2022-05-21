@@ -224,7 +224,7 @@ I can not pay rent. 家賃を払えない。
 
 Poor John. かわいそうなジョン  
 
-### prefer
+### prefer prifə́ːr
 
 I prefer antique furniture to the more modern stuff. アンティーク家具の方が、より現代的なものよりも好きです。  
 I'd prefer not to answer that. そのことにはあまりお答えしたくありません。  
