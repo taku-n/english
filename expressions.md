@@ -396,6 +396,7 @@ sus: suspicious 怪しい
 scw: sex crazed women  
 sub: subtitle  
 dub: dubbed  
+simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれるために彼女が喜ぶであろうと思うことを必死に何でもしてしまう哀れで従順な男性  
 
 ## Idioms
 
