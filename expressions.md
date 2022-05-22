@@ -427,6 +427,7 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0022 simply put  
 0023 just the two of us  
 0024 make it  
+0025 right after  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -453,6 +454,7 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0022 簡単に言うと  
 0023 二人きりで  
 0024 うまくやり遂げる If you try, you can make it. なせばなる  
+0025 のあとすぐに Right after the flight, the astronaut kissed the ground.  
 
 ## Words
 
@@ -702,6 +704,7 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0140 anxious  
 0141 regarding  
 0142 sincerely sinsíərli  
+0143 astronaut ǽstrənɔ̀t
 
 0101 幸せに  
 0102 運命  
@@ -745,3 +748,4 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0140 不安な A slow-growth economy makes workers anxious.  
 0141 に関して  
 0142 敬具 心から  
+0143 宇宙飛行士  
