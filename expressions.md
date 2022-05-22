@@ -397,6 +397,7 @@ scw: sex crazed women
 sub: subtitle  
 dub: dubbed  
 simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれるために彼女が喜ぶであろうと思うことを必死に何でもしてしまう哀れで従順な男性  
+iirc: If I remember correctly  
 
 ## Idioms
 
@@ -428,6 +429,7 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0023 just the two of us  
 0024 make it  
 0025 right after  
+0026 grow into  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -455,6 +457,7 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0023 二人きりで  
 0024 うまくやり遂げる If you try, you can make it. なせばなる  
 0025 のあとすぐに Right after the flight, the astronaut kissed the ground.  
+0026 に慣れる  
 
 ## Words
 
@@ -704,7 +707,9 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0140 anxious  
 0141 regarding  
 0142 sincerely sinsíərli  
-0143 astronaut ǽstrənɔ̀t
+0143 astronaut ǽstrənɔ̀t  
+0144 spine spáin  
+0145 jerk  
 
 0101 幸せに  
 0102 運命  
@@ -749,3 +754,5 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 0141 に関して  
 0142 敬具 心から  
 0143 宇宙飛行士  
+0144 脊椎  
+0145 最低な人  
