@@ -712,6 +712,7 @@ course: of course
 0144 spine spáin  
 0145 jerk  
 0146 paranoia pæ̀rənɔ́iə  
+0147 canny kǽni  
 
 0101 幸せに  
 0102 運命  
@@ -759,3 +760,4 @@ course: of course
 0144 脊椎  
 0145 最低な人  
 0146 疑心暗鬼 被害妄想  
+0147 抜け目のない  
