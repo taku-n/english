@@ -446,6 +446,7 @@ welp: well + help 希望がない感じを伴う
 0024 make it  
 0025 right after  
 0026 grow into  
+0027 in the daytime  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -474,6 +475,7 @@ welp: well + help 希望がない感じを伴う
 0024 うまくやり遂げる If you try, you can make it. なせばなる  
 0025 のあとすぐに Right after the flight, the astronaut kissed the ground.  
 0026 に慣れる  
+0027 日中に  
 
 ## Words
 
