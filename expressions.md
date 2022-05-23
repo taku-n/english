@@ -64,6 +64,10 @@ Don't hesitate to ask for my help. 助けか必要だったらためらわずに
 I would assume so. そうだと推測します  
 I assume (that) you will show this email to your subordinates. : あなたは、このメールを部下たちに見せますよね  
 
+### aware
+
+I was kind of aware of it. なんとなく気づいてた  
+
 ### business
 
 This may be none of my business but ... 余計なお世話かもしれないけど ...  
