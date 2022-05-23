@@ -88,6 +88,11 @@ He is curious about his daughter's activities. 彼は娘の行動を知りたが
     あえて［思い切って・恐れずに・平気で・大胆にも］～する、～する勇気がある◆通例、否定文・疑問文
     ・Dare you tell a pack of lies? : 君は空々しいうそをつくつもりなのかい。
 
+### deal
+
+It's not a big deal.  そこまで騒ぐことじゃない  
+It's no big deal. まったく問題ない  
+
 ### deserve
 
 I don't deserve to live. わたしは生きる価値がない  
@@ -240,6 +245,7 @@ No pressure. プレッシャーに思わないでね
 ・I'm going to pretend I didn't see that. : 私は、それを見なかったことにします。  
 ・I'm going to pretend that didn't happen. : 私は、それ［今の出来事］が起きなかった、というふりをするつもりです。／なかったことにしよう［しておこう］。◆【場面】不都合な出来事・気まずい出来事などについて。  
 ・Let's pretend this never happened. : これは、なかったことにしておきましょう。  
+I pretend not to hear him. 彼の声が聞こえないふりをする  
 
 ### regret
 
@@ -368,6 +374,13 @@ I want my flight money back. 飛行機代を返せ
 He never listens to what I want. 彼はわたしの望みを全然聞いてくれない  
 Tell me what you want. あなたの望みを教えて  
 
+### worry
+
+「I worry」は、日ごろから心配していることに使う。  
+「I worry too much about my son」（息子のことを心配しすぎる）みたいに、いつも心配しているイメージ。  
+「I am worried」は、今心配していることに使う。  
+「I am worried if I passed the test or not.」（試験に合格したかどうかが気になるわ）だと、心配しているのは今だけやろ。  
+
 ## Linkings, Reductions and Flappings
 
 you -> ya  
@@ -382,23 +395,25 @@ kind of -> kinda
 
 ## Abbreviations
 
-ig: I guess  
 asf: as F (like “extremely so.”)  
-hbu: how about you  
-gtg: I gotta go 「I have to」と「I’ve got to」はまったく同じ「しなくてはいけない」  
-imao: in my arrogant opinion  
-Ima: I am going to (but nearer at the time)  
 brb: be right back  
 brub, bruh: a term of an endearment made by combining 'bro' and 'bub'  
-welp: well + help 希望がない感じを伴う  
-nvm: never mind  
-sus: suspicious 怪しい  
-scw: sex crazed women  
-sub: subtitle  
-dub: dubbed  
-simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれるために彼女が喜ぶであろうと思うことを必死に何でもしてしまう哀れで従順な男性  
-iirc: If I remember correctly  
+cos: because kɑz  
 course: of course  
+dub: dubbed  
+esp: especially  
+gtg: I gotta go 「I have to」と「I’ve got to」はまったく同じ「しなくてはいけない」  
+hbu: how about you  
+ig: I guess  
+iirc: If I remember correctly  
+Ima: I am going to (but nearer at the time)  
+imao: in my arrogant opinion  
+nvm: never mind  
+scw: sex crazed women  
+simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれるために彼女が喜ぶであろうと思うことを必死に何でもしてしまう哀れで従順な男性  
+sub: subtitle  
+sus: suspicious 怪しい  
+welp: well + help 希望がない感じを伴う  
 
 ## Idioms
 
@@ -523,7 +538,7 @@ course: of course
 0058 extrovert  
 0059 distraction  
 0060 cucumber  
-0061 apparently əpǽrəntli  
+0061 apparently əpǽrəntli spelling  
 0062 obviously əpǽrəntli  
 0063 jealous  
 0064 jelly  
@@ -593,7 +608,7 @@ course: of course
 0026 褒め言葉  
 0027 する傾向がある  
 0028 堅苦しい人  
-0029 気まずい雰囲気  The atmosphere is awkward.  
+0029 気まずい雰囲気 The atmosphere is awkward. "あなたの英語での表現が洗練されていない" という意味もある  
 0030 パーカー  
 0031 からかう  
 0032 愛撫する  
@@ -713,6 +728,14 @@ course: of course
 0145 jerk  
 0146 paranoia pæ̀rənɔ́iə  
 0147 canny kǽni  
+0148 considerate  
+0149 conceited kənsíːtəd  
+0150 careless  
+0151 worry  
+0152 bunch  
+0153 genre ʒɑ́nrə  
+0154 milk  
+0155 stone  
 
 0101 幸せに  
 0102 運命  
@@ -761,3 +784,11 @@ course: of course
 0145 最低な人  
 0146 疑心暗鬼 被害妄想  
 0147 抜け目のない  
+0148 思いやりがある  
+0149 思い上がった  
+0150 油断した  
+0151 日本語の心配すると同じ  
+0152 たくさん  
+0153 ジャンル  
+0154 搾取する  
+0155 ヤクでハイにする  
