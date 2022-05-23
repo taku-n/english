@@ -325,6 +325,10 @@ Give me a shout. 声をかけてね
 
 https://eigobu.jp/magazine/so
 
+### special
+
+You are special to me. あなたはわたしにとって特別な人  
+
 ### stand
 
 ”stand for 〜” で「〜を表す」という意味があるので、例えば、
