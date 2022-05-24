@@ -761,6 +761,9 @@ welp: well + help 希望がない感じを伴う
 0154 milk  
 0155 stone  
 0156 convince  
+0157 impress  
+0158 move  
+0159 touch  
 
 0101 幸せに  
 0102 運命  
@@ -818,3 +821,6 @@ welp: well + help 希望がない感じを伴う
 0154 搾取する  
 0155 ヤクでハイにする  
 0156 納得させる I'm going to try to convince him that it's best to surrender. : 降伏するのが一番だと彼を説得してみるつもりだ  
+0157 感銘を与える I was impressed with your presentation.  
+0158 心を動かす I was moved with her performance. 演技に  
+0159 感動させる I was touched that my kids made me a birthday cake. してもらってうれしい，みたいなニュアンス  
