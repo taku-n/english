@@ -6,6 +6,18 @@
 
 https://toiguru.jp/gerund  
 
+【確信度が高い】  
+⇓　must  
+⇓　will  
+⇓　would  
+⇓　ought to  
+⇓　should  
+⇓　can  
+⇓　may  
+⇓　might  
+⇓　could  
+【確信度が低い】  
+
 ## Phrases
 
 〈Not bad〉➡〈Better〉  
