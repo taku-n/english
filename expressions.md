@@ -71,7 +71,7 @@ I owe you an apology. あなたに謝らないといけません
 Could I ask you something? お願いがあるのですが  
 Don't hesitate to ask for my help. 助けか必要だったらためらわずに聞いて  
 
-### assume
+### assume əsúːm
 
 I would assume so. そうだと推測します  
 I assume (that) you will show this email to your subordinates. : あなたは、このメールを部下たちに見せますよね  
