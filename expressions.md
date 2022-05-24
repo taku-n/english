@@ -746,6 +746,7 @@ welp: well + help 希望がない感じを伴う
 0153 genre ʒɑ́nrə  
 0154 milk  
 0155 stone  
+0156 convince  
 
 0101 幸せに  
 0102 運命  
@@ -802,3 +803,4 @@ welp: well + help 希望がない感じを伴う
 0153 ジャンル  
 0154 搾取する  
 0155 ヤクでハイにする  
+0156 納得させる I'm going to try to convince him that it's best to surrender. : 降伏するのが一番だと彼を説得してみるつもりだ  
