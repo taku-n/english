@@ -429,6 +429,7 @@ iirc: If I remember correctly
 Ima: I am going to (but nearer at the time)  
 imao: in my arrogant opinion  
 nvm: never mind  
+onl: online
 scw: sex crazed women  
 simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれるために彼女が喜ぶであろうと思うことを必死に何でもしてしまう哀れで従順な男性  
 sub: subtitle  
