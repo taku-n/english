@@ -765,6 +765,7 @@ welp: well + help 希望がない感じを伴う
 0158 move  
 0159 touch  
 0160 furry fə́ːri  
+0161 wobble wɑ́bl  
 
 0101 幸せに  
 0102 運命  
@@ -826,3 +827,4 @@ welp: well + help 希望がない感じを伴う
 0158 心を動かす I was moved with her performance. 演技に  
 0159 感動させる I was touched that my kids made me a birthday cake. してもらってうれしい，みたいなニュアンス  
 0160 擬人化された動物 半人半獣  
+0161 不安定で左右に不規則に揺れる  
