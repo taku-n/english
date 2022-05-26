@@ -153,6 +153,7 @@ Just be sure to avoid overdoing it. : あんまり無理しない方がいいで
 I think I overdid it. ちょっとやりすぎたかも  
 Don’t overdo it. 運動などを頑張りすぎないでね  
 I don’t wanna overdo it. トゥーマッチな感じにしたくない  
+If we overdo decrying our weaknesses, ...  
 
 ### down
 
