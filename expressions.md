@@ -1,5 +1,20 @@
 # Expressions
 
+## Standard Vocabulary List
+
+[Level 01](https://eow.alc.co.jp/svl_level1.html)  
+[Level 02](https://eow.alc.co.jp/svl_level2.html)  
+[Level 03](https://eow.alc.co.jp/svl_level3.html)  
+[Level 04](https://eow.alc.co.jp/svl_level4.html)  
+[Level 05](https://eow.alc.co.jp/svl_level5.html)  
+[Level 06](https://eow.alc.co.jp/svl_level6.html)  
+[Level 07](https://eow.alc.co.jp/svl_level7.html)  
+[Level 08](https://eow.alc.co.jp/svl_level8.html)  
+[Level 09](https://eow.alc.co.jp/svl_level9.html)  
+[Level 10](https://eow.alc.co.jp/svl_level10.html)  
+[Level 11](https://eow.alc.co.jp/svl_level11.html)  
+[Level 12](https://eow.alc.co.jp/svl_level12.html)  
+
 ## Grammar
 
 ### Gerund
@@ -56,6 +71,16 @@ have 助動詞 + not: I ain't had nothing. なんも食ってこなかった not
 ### alone
 
 I was alone with him. 彼と二人きりだった  
+
+### always
+
+「always＋現在形」は「いつも〜する」というニュートラルな意味ですが、「always＋現在進行形」で用いると、「いつも〜してばかりいる」というネガティブな意味で、困った状況を表す時などに使います。  
+
+I always walk to school.  
+（私はいつも歩いて学校に行く）  
+
+I'm always losing things.  
+（私は物を失くしてばかりいる（それで、困っている））  
 
 ### apologize
 
@@ -123,6 +148,12 @@ I don't deserve to live. わたしは生きる価値がない
 What do you like to do in your free time? 暇なときなにしてるの  
 It's a done deal. もう終わったことだ  
 
+overdo òuvərdúː  
+Just be sure to avoid overdoing it. : あんまり無理しない方がいいですよ  
+I think I overdid it. ちょっとやりすぎたかも  
+Don’t overdo it. 運動などを頑張りすぎないでね  
+I don’t wanna overdo it. トゥーマッチな感じにしたくない  
+
 ### down
 
 I am down. 賛成  
@@ -160,6 +191,8 @@ Would you like to go on a date with me?
 Let's go watch a movie togather sometime.  
 
 I will go to him. 私は彼のところへ行きます。  
+
+Don't go too hard on yourself. あんまり無理しないで  
 
 ### google
 
@@ -372,6 +405,7 @@ https://mysuki.jp/english-take-it-easy-9684
 Take care of yourself.  (体調が悪いひとに) お大事にね  
 Take a rest. 休んでね  
 Take one step at a time. 一歩ずつでいいからね  
+take it easy ok? あんまり無理しないで  
 
 ### tease
 
@@ -781,6 +815,7 @@ welp: well + help 希望がない感じを伴う
 0164 dedication  
 0165 complacent kəmpléisənt  
 0166 embrace  
+0167 enthusiastic  
 
 0101 幸せに  
 0102 運命  
@@ -848,3 +883,4 @@ welp: well + help 希望がない感じを伴う
 0164 献身  
 0165 (本当はまだいけるのに) 自己満足した <軽蔑的なので注意>  
 0166 抱き締める  
+0167 熱心な やる気のある  
