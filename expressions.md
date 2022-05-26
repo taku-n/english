@@ -816,6 +816,8 @@ welp: well + help 希望がない感じを伴う
 0165 complacent kəmpléisənt  
 0166 embrace  
 0167 enthusiastic  
+0168 decry  
+0169 fret  
 
 0101 幸せに  
 0102 運命  
@@ -884,3 +886,5 @@ welp: well + help 希望がない感じを伴う
 0165 (本当はまだいけるのに) 自己満足した <軽蔑的なので注意>  
 0166 抱き締める  
 0167 熱心な やる気のある  
+0168 非難する  
+0169 くよくよ悩む Don't fret so much. : そんなに心配するな。◆【同】Don't worry so much.  
