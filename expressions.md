@@ -48,6 +48,11 @@ Only after losing him did I realize how important he was.
 I understood how important studying is only after I started working. 働いてみて初めて、勉強の大切さが分かる  
 Only after starting work did I understand how important studying is.  
 
+### ain't (native only)
+
+be 動詞 + not: I ain't a student. 俺ゃここの生徒じゃねーよ  
+have 助動詞 + not: I ain't had nothing. なんも食ってこなかった not + no なのに肯定にならず, むしろ強い否定となる  
+
 ### alone
 
 I was alone with him. 彼と二人きりだった  
@@ -772,6 +777,10 @@ welp: well + help 希望がない感じを伴う
 0160 furry fə́ːri  
 0161 wobble wɑ́bl  
 0162 argue ɑ́rgjuː  
+0163 deceive  
+0164 dedication  
+0165 complacent kəmpléisənt  
+0166 embrace  
 
 0101 幸せに  
 0102 運命  
@@ -835,3 +844,7 @@ welp: well + help 希望がない感じを伴う
 0160 擬人化された動物 半人半獣  
 0161 不安定で左右に不規則に揺れる  
 0162 執拗に異議を唱える 言い争う  
+0163 だます (自分にはめったに使わない) Do my eyes deceive me? : 私の見間違いだろうか。Do my ears deceive me? : 私の聞き間違いだろうか。  
+0164 献身  
+0165 (本当はまだいけるのに) 自己満足した <軽蔑的なので注意>  
+0166 抱き締める  
