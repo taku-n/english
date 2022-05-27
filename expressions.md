@@ -110,6 +110,10 @@ I assume (that) you will show this email to your subordinates. : あなたは、
 
 I was kind of aware of it. なんとなく気づいてた  
 
+### beg
+
+I'm begging you. お願いですから  
+
 ### business
 
 This may be none of my business but ... 余計なお世話かもしれないけど ...  
@@ -460,6 +464,7 @@ kind of -> kinda
 ## Abbreviations
 
 asf: as F (like “extremely so.”)  
+atm: at the moment  
 brb: be right back  
 brub, bruh: a term of an endearment made by combining 'bro' and 'bub'  
 cos: because kɑz  
@@ -819,6 +824,9 @@ welp: well + help 希望がない感じを伴う
 0167 enthusiastic  
 0168 decry  
 0169 fret  
+0170 lame  
+0171 kiddo  
+0172 tie  
 
 0101 幸せに  
 0102 運命  
@@ -889,3 +897,6 @@ welp: well + help 希望がない感じを伴う
 0167 熱心な やる気のある  
 0168 非難する  
 0169 くよくよ悩む Don't fret so much. : そんなに心配するな。◆【同】Don't worry so much.  
+0170 時代遅れの ださい  
+0171 きみ 年下の人への優しい呼びかけ  
+0172 同点になる 引き分ける  
