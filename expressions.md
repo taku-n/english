@@ -469,6 +469,8 @@ brb: be right back
 brub, bruh: a term of an endearment made by combining 'bro' and 'bub'  
 cos: because kɑz  
 course: of course  
+cu: see you  
+cya: see you again  
 dub: dubbed  
 esp: especially  
 gtg: I gotta go 「I have to」と「I’ve got to」はまったく同じ「しなくてはいけない」  
