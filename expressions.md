@@ -219,6 +219,10 @@ Have you ever heard of (it|him|her|them)?
 知ってる?  
 https://www.youtube.com/watch?v=wLDARqOuszw  
 
+### hope
+
+I hope for your happiness. あなたの未来の幸せを願います  
+
 ### hurt
 
 My teeth hurts. 歯が痛む  
