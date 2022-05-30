@@ -55,6 +55,10 @@ You didn't do anything wrong. あなたは悪くない
 
 How was your day?  今日はどんな 1日 だった?  
 
+Huh?  
+Uh huh.  
+[傷つくからやめて](https://note.com/hacchi_8/n/nb4f2cac35212)  
+
 ### after
 
 I realized how important he was only after he left. 失ってみて初めて、彼の存在の大きさに気づいた  
@@ -833,6 +837,7 @@ welp: well + help 希望がない感じを伴う
 0170 lame  
 0171 kiddo  
 0172 tie  
+0173 immersive imə́ːsiv  
 
 0101 幸せに  
 0102 運命  
@@ -906,3 +911,4 @@ welp: well + help 希望がない感じを伴う
 0170 時代遅れの ださい  
 0171 きみ 年下の人への優しい呼びかけ  
 0172 同点になる 引き分ける  
+0173 没入感のある  
