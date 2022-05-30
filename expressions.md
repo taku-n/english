@@ -118,6 +118,10 @@ I was kind of aware of it. なんとなく気づいてた
 
 I'm begging you. お願いですから  
 
+### bore
+
+Only boring people get bored.  
+
 ### business
 
 This may be none of my business but ... 余計なお世話かもしれないけど ...  
