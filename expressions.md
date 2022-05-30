@@ -240,6 +240,10 @@ If he says "I'm into girls", he means I like girls only or I adore girls only an
 
 Kind of like that. そんな感じ  
 
+### know
+
+You know what?  あのさ ちょっと聞いてよ  
+
 ### last
 
 one last 最後の1回の  
