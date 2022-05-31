@@ -469,7 +469,7 @@ Tell me what you want. あなたの望みを教えて
 ### wrong
 
 What's wrong? どうしたの 大丈夫  
-What's wrong with you? 頭おかしいだろ  
+What's wrong with you? 頭おかしいだろ (with you を付けるだけでとんでもないことに)  
 
 ## Linkings, Reductions and Flappings
 
