@@ -536,6 +536,7 @@ welp: well + help 希望がない感じを伴う
 0026 grow into  
 0027 in the daytime  
 0028 at least  
+0029 even now  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -566,6 +567,7 @@ welp: well + help 希望がない感じを伴う
 0026 に慣れる  
 0027 日中に  
 0028 少なくとも  
+0029 いまでも いまだに  
 
 ## Words
 
