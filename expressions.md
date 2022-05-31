@@ -237,6 +237,16 @@ I hope for your happiness. あなたの未来の幸せを願います
 My teeth hurts. 歯が痛む  
 Does it still hurts? まだ痛みますか  
 
+### if
+
+if only  
+If only I were young. 若かったらなあ 願望  
+If only I knew it. 知ってさえいたら 後悔  
+I’m happy to have him back here again, if only for a few days.  
+たった数日で彼を戻すことになって、よかったです 理由  
+It’s time for our party to unite if only to help the men who tried to protect us.  
+私たちを守ろうとした人たちを助けるために、一致団結するときです 理由  
+
 ### into
 
 If he says "I'm into girls", he means I like girls only or I adore girls only and that he doesn't like guys.
