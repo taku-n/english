@@ -466,6 +466,11 @@ Tell me what you want. あなたの望みを教えて
 「I am worried」は、今心配していることに使う。  
 「I am worried if I passed the test or not.」（試験に合格したかどうかが気になるわ）だと、心配しているのは今だけやろ。  
 
+### wrong
+
+What's wrong? どうしたの 大丈夫  
+What's wrong with you? 頭おかしいだろ  
+
 ## Linkings, Reductions and Flappings
 
 you -> ya  
