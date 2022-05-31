@@ -191,6 +191,7 @@ You don't have to pretend to be fine. 無理に元気なふりをしなくてい
 ### force
 
 Don't force yourself. 無理しないでね  
+force into A ing A に ing するよう強制する  
 
 ### get
 
