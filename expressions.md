@@ -554,6 +554,7 @@ welp: well + help 希望がない感じを伴う
 0028 at least  
 0029 even now  
 0030 buy the dip  
+0031 come over  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -586,6 +587,7 @@ welp: well + help 希望がない感じを伴う
 0028 少なくとも  
 0029 いまでも いまだに  
 0030 押し目買い  
+0031 Do you wanna come over? うち来ない  
 
 ## Words
 
@@ -869,6 +871,7 @@ welp: well + help 希望がない感じを伴う
 0174 creepy  
 0175 needless  
 0176 spurious spjúəriəs  
+0177 bet  
 
 0101 幸せに  
 0102 運命  
@@ -946,3 +949,4 @@ welp: well + help 希望がない感じを伴う
 0174 うわ，きもっ  
 0175 不必要な  
 0176 スプリアスの うその  
+0177 了解  
