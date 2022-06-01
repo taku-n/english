@@ -872,6 +872,8 @@ welp: well + help 希望がない感じを伴う
 0175 needless  
 0176 spurious spjúəriəs  
 0177 bet  
+0178 ominous ɑ́mənəs  
+0179 inconspicuous ìnkənspíkjuəs  
 
 0101 幸せに  
 0102 運命  
@@ -950,3 +952,5 @@ welp: well + help 希望がない感じを伴う
 0175 不必要な  
 0176 スプリアスの うその  
 0177 了解  
+0178 不吉な  
+0179 目立たない  
