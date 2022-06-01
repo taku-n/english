@@ -866,6 +866,7 @@ welp: well + help 希望がない感じを伴う
 0173 immersive imə́ːsiv  
 0174 creepy  
 0175 needless  
+0176 spurious spjúəriəs  
 
 0101 幸せに  
 0102 運命  
@@ -942,3 +943,4 @@ welp: well + help 希望がない感じを伴う
 0173 没入感のある  
 0174 うわ，きもっ  
 0175 不必要な  
+0176 スプリアスの  
