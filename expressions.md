@@ -553,6 +553,7 @@ welp: well + help 希望がない感じを伴う
 0027 in the daytime  
 0028 at least  
 0029 even now  
+0030 buy the dip  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -584,6 +585,7 @@ welp: well + help 希望がない感じを伴う
 0027 日中に  
 0028 少なくとも  
 0029 いまでも いまだに  
+0030 押し目買い  
 
 ## Words
 
