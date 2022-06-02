@@ -878,6 +878,7 @@ welp: well + help 希望がない感じを伴う
 0177 bet  
 0178 ominous ɑ́mənəs  
 0179 inconspicuous ìnkənspíkjuəs  
+0180 adolescent æ̀dəlés(ə)nt  
 
 0101 幸せに  
 0102 運命  
@@ -958,3 +959,4 @@ welp: well + help 希望がない感じを伴う
 0177 了解  
 0178 不吉な  
 0179 目立たない  
+0180 思春期の  
