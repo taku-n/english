@@ -17,9 +17,13 @@
 
 ## Grammar
 
-### Gerund
+### Gerund dʒérənd
 
 https://toiguru.jp/gerund  
+
+### Interjection
+
+[気まずい沈黙を乗り切る！～つなぎの英語表現](https://eikaiwa.dmm.com/blog/expressions/expression/well-you-know/)  
 
 【確信度が高い】  
 ⇓　must  
