@@ -212,6 +212,8 @@ I will go to him. 私は彼のところへ行きます。
 
 Don't go too hard on yourself. あんまり無理しないで  
 
+How's it going to end? この先の運命は  
+
 ### google
 
 Try googling “simple recipes.” 「簡単なレシピ」でググってみて  
