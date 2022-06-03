@@ -213,6 +213,8 @@ I will go to him. 私は彼のところへ行きます。
 Don't go too hard on yourself. あんまり無理しないで  
 
 How's it going to end? この先の運命は  
+How's it going?  調子はどう  
+[「How's it going?」の使い方！上手に質問・返答するには](https://nativecamp.net/blog/20220206_phrase)  
 
 ### google
 
