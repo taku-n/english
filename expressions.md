@@ -880,6 +880,7 @@ welp: well + help 希望がない感じを伴う
 0179 inconspicuous ìnkənspíkjuəs  
 0180 adolescent æ̀dəlés(ə)nt  
 0181 Jubilee dʒúːbəlìː  
+0182 censor sénsər  
 
 0101 幸せに  
 0102 運命  
@@ -962,3 +963,4 @@ welp: well + help 希望がない感じを伴う
 0179 目立たない  
 0180 思春期の  
 0181 ヨベルの年  
+0182 検閲する  
