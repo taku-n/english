@@ -202,6 +202,7 @@ force into A ing A に ing するよう強制する
 I get motion sickness.  乗り物酔いする  
 Make sure to get plenty of rest. しっかり休んでね  
 I got to like math. 数学が好きになった  
+Do you get me? = Do you understand?  
 
 ### go
 
@@ -885,6 +886,7 @@ welp: well + help 希望がない感じを伴う
 0180 adolescent æ̀dəlés(ə)nt  
 0181 Jubilee dʒúːbəlìː  
 0182 censor sénsər  
+0183 reincarnation rìːinkɑːnéiʃən  
 
 0101 幸せに  
 0102 運命  
@@ -968,3 +970,4 @@ welp: well + help 希望がない感じを伴う
 0180 思春期の  
 0181 ヨベルの年  
 0182 検閲する  
+0183 転生  
