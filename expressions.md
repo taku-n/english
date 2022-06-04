@@ -514,6 +514,7 @@ cu: see you
 cya: see you again  
 dub: dubbed  
 esp: especially  
+bgmsm: gay, bisexual and other men who have sex with men  
 gtg: I gotta go 「I have to」と「I’ve got to」はまったく同じ「しなくてはいけない」  
 hbu: how about you  
 ig: I guess  
