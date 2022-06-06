@@ -571,6 +571,7 @@ welp: well + help 希望がない感じを伴う
 0029 even now  
 0030 buy the dip  
 0031 come over  
+0032 the elephant in the room  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -604,6 +605,7 @@ welp: well + help 希望がない感じを伴う
 0029 いまでも いまだに  
 0030 押し目買い  
 0031 Do you wanna come over? うち来ない  
+0032 見て見ぬふり  
 
 ## Words
 
@@ -898,6 +900,7 @@ welp: well + help 希望がない感じを伴う
 0185 criterion kraitíəriən  
 0186 criteria kraitíəriə  
 0187 hubris hjúbris  
+0188 diversity dəvə́ːrsəti  
 
 0101 幸せに  
 0102 運命  
@@ -986,3 +989,4 @@ welp: well + help 希望がない感じを伴う
 0185 基準  
 0186 The plural of criterion.  
 0187 過剰な尊大さ  
+0188 多様性  
