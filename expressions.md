@@ -895,6 +895,8 @@ welp: well + help 希望がない感じを伴う
 0182 censor sénsər  
 0183 reincarnation rìːinkɑːnéiʃən  
 0184 staycation stèikéiʃən  
+0185 criterion kraitíəriən  
+0186 criteria kraitíəriə  
 
 0101 幸せに  
 0102 運命  
@@ -980,3 +982,5 @@ welp: well + help 希望がない感じを伴う
 0182 検閲する  
 0183 転生  
 0184 stay-at-home + vacation  
+0185 基準  
+0186 The plural of criterion.  
