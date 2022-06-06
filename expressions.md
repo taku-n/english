@@ -294,6 +294,12 @@ Don't mind me and go enjoy yourself.  わたしのことは気にしなくてい
 
 My glasses mist up. メガネがくもる  
 
+### moment móumənt
+
+moment 瞬間  
+for a moment 少しの間  
+[英語で「ちょっと待って」と表現する上手な言い方、ニュアンスごとの使い分け方](https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/just-a-moment-please)  
+
 ### not
 
 [Partial Negation](https://manab-juku.me/english/complete-partial-negation/)
@@ -888,6 +894,7 @@ welp: well + help 希望がない感じを伴う
 0181 Jubilee dʒúːbəlìː  
 0182 censor sénsər  
 0183 reincarnation rìːinkɑːnéiʃən  
+0184 staycation stèikéiʃən  
 
 0101 幸せに  
 0102 運命  
@@ -972,3 +979,4 @@ welp: well + help 希望がない感じを伴う
 0181 ヨベルの年  
 0182 検閲する  
 0183 転生  
+0184 stay-at-home + vacation  
