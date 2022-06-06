@@ -897,6 +897,7 @@ welp: well + help 希望がない感じを伴う
 0184 staycation stèikéiʃən  
 0185 criterion kraitíəriən  
 0186 criteria kraitíəriə  
+0187 hubris hjúbris  
 
 0101 幸せに  
 0102 運命  
@@ -984,3 +985,4 @@ welp: well + help 希望がない感じを伴う
 0184 stay-at-home + vacation  
 0185 基準  
 0186 The plural of criterion.  
+0187 過剰な尊大さ  
