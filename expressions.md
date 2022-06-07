@@ -484,6 +484,10 @@ I want my flight money back. 飛行機代を返せ
 He never listens to what I want. 彼はわたしの望みを全然聞いてくれない  
 Tell me what you want. あなたの望みを教えて  
 
+### what
+
+What's today? 何曜日  
+
 ### worry
 
 「I worry」は、日ごろから心配していることに使う。  
