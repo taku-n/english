@@ -906,6 +906,11 @@ welp: well + help 希望がない感じを伴う
 0187 hubris hjúbris  
 0188 diversity dəvə́ːrsəti  
 0189 unhappy  
+0190 suicidal sùəsáidəl  
+0191 premenstrual priːménstruəl  
+0192 syndrome síndroum  
+0193 stressful  
+0194 polysaccharide pɔ̀lisǽkəràid  
 
 0101 幸せに  
 0102 運命  
@@ -996,3 +1001,8 @@ welp: well + help 希望がない感じを伴う
 0187 過剰な尊大さ  
 0188 多様性  
 0189 不幸な  
+0190 自殺の 自滅的な  
+0191 月経前の  
+0192 症候群  
+0193 ストレスの多い  
+0194 多糖  
