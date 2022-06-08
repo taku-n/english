@@ -1036,5 +1036,7 @@ welp: well + help 希望がない感じを伴う
 0200 forbid の過去形  
 
 0201 humble  
+0202 hygienic haidʒénik  
 
 0201 謙虚な  
+0202 衛生的な  
