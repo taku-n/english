@@ -495,6 +495,20 @@ What's today? 何曜日
 「I am worried」は、今心配していることに使う。  
 「I am worried if I passed the test or not.」（試験に合格したかどうかが気になるわ）だと、心配しているのは今だけやろ。  
 
+### would
+
+「would＋原形」で，would は形は過去形ですが，現在の推量を表し，「…かもしれない，…でしょう」という意味になります。  
+そして，過去を表す文脈では「would＋原形」が過去の推量を表しますが，そのときに，「would have 過去分詞」の形になることもあります。  
+
+The guests would have arrived by now.  
+今頃はもうお客さんはお着きになっているでしょう。  
+
+She would be ［ have been ］ 80 when she died.  
+彼女は死んだ時８０歳にはなっていただろう。  
+
+２つめの例では，would be が過去の推量を表していますが，would have been でもOKです。  
+これらは，仮定法過去完了とかの「would have 過去分詞」ではありません。  
+
 ### wrong
 
 What's wrong? どうしたの 大丈夫  
@@ -576,6 +590,7 @@ welp: well + help 希望がない感じを伴う
 0030 buy the dip  
 0031 come over  
 0032 the elephant in the room  
+0033 by now  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -610,6 +625,7 @@ welp: well + help 希望がない感じを伴う
 0030 押し目買い  
 0031 Do you wanna come over? うち来ない  
 0032 見て見ぬふり  
+0033 いまごろ そろそろ  
 
 ## Words
 
