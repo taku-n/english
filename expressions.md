@@ -930,6 +930,7 @@ welp: well + help 希望がない感じを伴う
 0195 hilarious hilέəriəs  
 0196 sullen sʌ́lən  
 0197 resume rézəmèi  
+0198 graduate 《動》grǽdʒu：èit 《名》grǽdʒuət  
 
 0101 幸せに  
 0102 運命  
@@ -1028,3 +1029,4 @@ welp: well + help 希望がない感じを伴う
 0195 とてもおもしろい  
 0196 怒って黙っている 不機嫌な  
 0197 履歴書  
+0198 卒業する 学士  
