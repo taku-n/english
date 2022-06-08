@@ -928,6 +928,7 @@ welp: well + help 希望がない感じを伴う
 0193 stressful  
 0194 polysaccharide pɔ̀lisǽkəràid  
 0195 hilarious hilέəriəs  
+0196 sullen sʌ́lən  
 
 0101 幸せに  
 0102 運命  
@@ -1024,3 +1025,4 @@ welp: well + help 希望がない感じを伴う
 0193 ストレスの多い  
 0194 多糖  
 0195 とてもおもしろい  
+0196 怒って黙っている 不機嫌な  
