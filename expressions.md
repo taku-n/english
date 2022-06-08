@@ -911,6 +911,7 @@ welp: well + help 希望がない感じを伴う
 0192 syndrome síndroum  
 0193 stressful  
 0194 polysaccharide pɔ̀lisǽkəràid  
+0195 hilarious hilέəriəs  
 
 0101 幸せに  
 0102 運命  
@@ -1006,3 +1007,4 @@ welp: well + help 希望がない感じを伴う
 0192 症候群  
 0193 ストレスの多い  
 0194 多糖  
+0195 とてもおもしろい  
