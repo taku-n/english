@@ -1038,7 +1038,11 @@ welp: well + help 希望がない感じを伴う
 0201 humble  
 0202 hygienic haidʒénik  
 0203 cease síːs  
+0204 lid  
+0205 delid  
 
 0201 謙虚な  
 0202 衛生的な  
 0203 終わる をやめる  
+0204 蓋 Keep a lid on it. これは秘密です  
+0205 Remove the lid from a microchip.  
