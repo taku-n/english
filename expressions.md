@@ -591,6 +591,7 @@ welp: well + help 希望がない感じを伴う
 0031 come over  
 0032 the elephant in the room  
 0033 by now  
+0034 once in a while  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -626,6 +627,7 @@ welp: well + help 希望がない感じを伴う
 0031 Do you wanna come over? うち来ない  
 0032 見て見ぬふり  
 0033 いまごろ そろそろ  
+0034 たまには  
 
 ## Words
 
@@ -1040,9 +1042,11 @@ welp: well + help 希望がない感じを伴う
 0203 cease síːs  
 0204 lid  
 0205 delid  
+0206 lover  
 
 0201 謙虚な  
 0202 衛生的な  
 0203 終わる をやめる  
 0204 蓋 Keep a lid on it. これは秘密です  
 0205 Remove the lid from a microchip.  
+0206 恋人  
