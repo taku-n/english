@@ -715,7 +715,7 @@ welp: well + help 希望がない感じを伴う
 0081 cage  
 0082 stuff  
 0083 hoe hóu  
-0084 whore  
+0084 whore hɔr  
 0085 swag swǽg  
 0086 philosophical  
 0087 retro  
