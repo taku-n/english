@@ -231,6 +231,9 @@ Don't be too hard on yourself. 自分に厳しくしすぎないでね
 
 I have a pain in my eye. 目が痛い  
 
+久しぶりに...したい的なことを言いたいとき  
+I want to eat Yakiniku. I haven't had it in so long.  
+
 ### hear
 
 Have you ever heard of (it|him|her|them)?  
@@ -1045,6 +1048,8 @@ welp: well + help 希望がない感じを伴う
 0204 lid  
 0205 delid  
 0206 lover  
+0207 inferior infíriər  
+0208 creature krítʃər  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1052,3 +1057,5 @@ welp: well + help 希望がない感じを伴う
 0204 蓋 Keep a lid on it. これは秘密です  
 0205 Remove the lid from a microchip.  
 0206 恋人  
+0207 劣る  
+0208 生き物 動物 人間  
