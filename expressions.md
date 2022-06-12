@@ -1050,6 +1050,7 @@ welp: well + help 希望がない感じを伴う
 0206 lover  
 0207 inferior infíriər  
 0208 creature krítʃər  
+0209 mandatory mǽndətɔ̀ri  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1059,3 +1060,4 @@ welp: well + help 希望がない感じを伴う
 0206 恋人  
 0207 劣る  
 0208 生き物 動物 人間  
+0209 強制的な 必須の  
