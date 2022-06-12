@@ -240,6 +240,10 @@ Have you ever heard of (it|him|her|them)?
 知ってる?  
 https://www.youtube.com/watch?v=wLDARqOuszw  
 
+### hold
+
+What's the hold up? なぜ遅れているの  
+
 ### hope
 
 I hope for your happiness. あなたの未来の幸せを願います  
