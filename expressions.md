@@ -243,6 +243,7 @@ https://www.youtube.com/watch?v=wLDARqOuszw
 ### hold
 
 What's the hold up? なぜ遅れているの  
+hold back 本心を隠す Holding something back? ムリしてない?  
 
 ### hope
 
