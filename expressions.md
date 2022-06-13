@@ -1068,6 +1068,7 @@ welp: well + help 希望がない感じを伴う
 0215 selfish  
 0216 recur  
 0217 adolescence æ̀dəlés(ə)ns  
+0218 admit  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1086,3 +1087,4 @@ welp: well + help 希望がない感じを伴う
 0215 利己的な  
 0216 繰り返される (悪いニュアンスがある?  
 0217 青年期 ◆思春期(puberty)から成人期(adulthood)までの過渡期  
+0218 認める  
