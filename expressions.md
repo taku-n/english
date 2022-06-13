@@ -494,7 +494,7 @@ Tell me what you want. あなたの望みを教えて
 
 ### waste
 
-You don't have to waste your time worrying about me anymore.
+You don't have to waste your time worrying about me anymore.  
 
 ### what
 
