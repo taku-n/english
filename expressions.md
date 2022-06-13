@@ -1055,6 +1055,8 @@ welp: well + help 希望がない感じを伴う
 0207 inferior infíriər  
 0208 creature krítʃər  
 0209 mandatory mǽndətɔ̀ri  
+0210 belle bél  
+0211 genre ʒɑ́nrə  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1065,3 +1067,5 @@ welp: well + help 希望がない感じを伴う
 0207 劣る  
 0208 生き物 動物 人間  
 0209 強制的な 必須の  
+0210 〈フランス語〉美人  
+0211 ジャンル  
