@@ -492,6 +492,10 @@ I want my flight money back. 飛行機代を返せ
 He never listens to what I want. 彼はわたしの望みを全然聞いてくれない  
 Tell me what you want. あなたの望みを教えて  
 
+### waste
+
+Don't waste your time.
+
 ### what
 
 What's today? 何曜日  
