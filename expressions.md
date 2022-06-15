@@ -613,6 +613,7 @@ welp: well + help 希望がない感じを伴う
 0033 by now  
 0034 once in a while  
 0035 the all-time best ...  
+0036 social media  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -650,6 +651,7 @@ welp: well + help 希望がない感じを伴う
 0033 いまごろ そろそろ  
 0034 たまには  
 0035 史上最高の...  
+0036 SNS  
 
 ## Words
 
