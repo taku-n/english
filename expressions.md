@@ -250,6 +250,12 @@ hold back 本心を隠す Holding something back? ムリしてない?
 I hope for your happiness. あなたの未来の幸せを願います  
 We have high hopes for the new hires. 新入社員に期待する  
 
+### how
+
+That’s how it is. そんなもんだよ  
+That’s how it is with life. 人生そんなもんだよ  
+[【朝のひとこと英会話 vol.131】「そんなもんだよ」を英語でいうと？](https://asajikan.jp/article/89592)  
+
 ### hurt
 
 My teeth hurts. 歯が痛む  
