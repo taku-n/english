@@ -248,6 +248,7 @@ hold back 本心を隠す Holding something back? ムリしてない?
 ### hope
 
 I hope for your happiness. あなたの未来の幸せを願います  
+We have high hopes for the new hires. 新入社員に期待する  
 
 ### hurt
 
