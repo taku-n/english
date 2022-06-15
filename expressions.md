@@ -1088,6 +1088,7 @@ welp: well + help 希望がない感じを伴う
 0218 admit  
 0219 unwelcome ʌnwélkəm  
 0220 betray bitréi  
+0221 tremble  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1109,3 +1110,4 @@ welp: well + help 希望がない感じを伴う
 0218 認める  
 0219 お呼びでない 歓迎されない  
 0220 裏切る betray a friend 仲間を裏切る  
+0221 身震いする 震えさせる  
