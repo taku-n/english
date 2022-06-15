@@ -293,6 +293,10 @@ Can you make it? できそうですか
 I will try my best to make it. なんとかしてみます  
 It makes me want to ... したくなる  
 
+### many
+
+How many presidents were there before Lincoln? リンカーンより前には大統領が何人いましたか  
+
 ### mind
 
 Would you mind not calling me? わたしに電話しないでいただけますか  
@@ -317,6 +321,10 @@ I don't really eat it. あまり食べない
 
 It's not that ... . というわけではない  
 It's not that I dislike Yakiniku. 焼肉が嫌いというわけではない  
+
+### number
+
+What number are you? あなたは何番目  
 
 ### out
 
