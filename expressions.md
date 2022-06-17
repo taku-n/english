@@ -294,6 +294,10 @@ I'm gonna ask you one last time. : 最後にもう一度聞く［尋ねる］。
 I just wanted to see him one last time. : 最後にもう一度彼に会いたかった。  
 I just wish I could talk to you one last time. : 最後にもう一度あなたと話ができればと思ってたんだけど。  
 
+I don't think it will last long.  
+I don't think our relationship will last.  
+長く続く気がしない  
+
 ### make
 
 Can you make it? できそうですか  
