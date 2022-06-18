@@ -1094,6 +1094,7 @@ welp: well + help 希望がない感じを伴う
 0220 betray bitréi  
 0221 tremble  
 0222 reveal rivíl  
+0223 expunge  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1117,3 +1118,4 @@ welp: well + help 希望がない感じを伴う
 0220 裏切る betray a friend 仲間を裏切る  
 0221 身震いする 震えさせる  
 0222 (知られていなかったことを) 明らかにする  
+0223 消し去る  
