@@ -1100,6 +1100,7 @@ welp: well + help 希望がない感じを伴う
 0226 anal éinəl  
 0227 flexion  
 0228 confectionery  
+0229 soak sóuk  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1129,3 +1130,4 @@ welp: well + help 希望がない感じを伴う
 0226 肛門の  
 0227 曲がること  
 0228 菓子類 Japanese confectioneries. 和菓子  
+0229 浸す  
