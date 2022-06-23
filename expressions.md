@@ -1101,6 +1101,8 @@ welp: well + help 希望がない感じを伴う
 0227 flexion  
 0228 confectionery  
 0229 soak sóuk  
+0230 ambient  
+0231 endurance  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1131,3 +1133,5 @@ welp: well + help 希望がない感じを伴う
 0227 曲がること  
 0228 菓子類 Japanese confectioneries. 和菓子  
 0229 浸す  
+0230 〔音・光などについて〕周囲の  
+0231 耐久性  
