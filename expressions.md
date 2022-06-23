@@ -1103,6 +1103,7 @@ welp: well + help 希望がない感じを伴う
 0229 soak sóuk  
 0230 ambient  
 0231 endurance  
+0232 desperate déspərət  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1135,3 +1136,4 @@ welp: well + help 希望がない感じを伴う
 0229 浸す  
 0230 〔音・光などについて〕周囲の  
 0231 耐久性  
+0232 やけくそになった  
