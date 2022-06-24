@@ -1104,6 +1104,7 @@ welp: well + help 希望がない感じを伴う
 0230 ambient  
 0231 endurance  
 0232 desperate déspərət  
+0233 speculation  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1137,3 +1138,4 @@ welp: well + help 希望がない感じを伴う
 0230 〔音・光などについて〕周囲の  
 0231 耐久性  
 0232 やけくそになった  
+0233 憶測 投機  
