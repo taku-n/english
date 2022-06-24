@@ -453,6 +453,18 @@ Give me a shout. 声をかけてね
 
 https://eigobu.jp/magazine/so
 
+### sorry
+
+I am sorry for being late. 遅れてごめん (自責)  
+I am sorry about the delay. 遅延が出てて残念だ (他責)  
+
+to 以降はこれから起こること  
+I am sorry to bother you, but do you have a minute? 邪魔して悪いけど、時間ある？  
+I’m sorry to say, but I disagree with you. ごめん、でも同意できないよ。  
+
+I am sorry I can not agree with you.  
+I am sorry to have disagreed with you. 同じ意味  
+
 ### special
 
 You are special to me. あなたはわたしにとって特別な人  
@@ -625,6 +637,7 @@ welp: well + help 希望がない感じを伴う
 0034 once in a while  
 0035 the all-time best ...  
 0036 social media  
+0037 feel for  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -663,6 +676,7 @@ welp: well + help 希望がない感じを伴う
 0034 たまには  
 0035 史上最高の...  
 0036 SNS  
+0037 同情する I feel for you. お察しします  
 
 ## Words
 
