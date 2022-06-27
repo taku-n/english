@@ -528,6 +528,7 @@
 0268 insurance inʃúərəns  
 0269 cape  
 0270 hydrangea haidréindʒə  
+0271 excuse《動》ikskjúːz《名》ikskjúːs  
 
 0251 飲み込む  
 0252 pervert  
@@ -549,3 +550,4 @@
 0268 保険  
 0269 岬  
 0270 アジサイ  
+0271 許す 言い訳  
