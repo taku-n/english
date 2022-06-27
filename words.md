@@ -3,7 +3,7 @@
 0000 rebel  
 0001 rot  
 0002 smack  
-0003 feeling  
+0003 feelings  
 0004 anxiety is a noun  
 0005 grant  
 0006 outage  
@@ -34,7 +34,7 @@
 0031 tease  
 0032 pet  
 0033 silly  
-0034 incarnate  
+0034 incarnate *  
 0035 jumpy  
 0036 detonation  
 0037 radius  
@@ -42,12 +42,12 @@
 0039 breakdown  
 0040 butt  
 0041 fortress  
-0042 frighten  
+0042 bastard bǽstərd  
 0043 jerk  
 0044 tomboy  
 0045 simp  
 0046 creep  
-0047 convulsion  
+0047 convulsion *  
 0048 addict 名前動後  
 0049 stargaze  
 0050 incorporate  
@@ -62,7 +62,7 @@
 0059 distraction  
 0060 cucumber  
 0061 apparently əpǽrəntli spelling  
-0062 obviously əpǽrəntli  
+0062 obviously  
 0063 jealous  
 0064 jelly  
 0065 envy  
@@ -77,7 +77,7 @@
 0074 close  
 0075 adore  
 0076 determine  
-0077 constraint kənstréint  
+0077 constraint kənstréint *  
 0078 cuckold  
 0079 negation nigéiʃən  
 0080 praise  
@@ -85,7 +85,7 @@
 0082 stuff  
 0083 hoe hóu  
 0084 whore hɔr  
-0085 swag swǽg  
+0085 swag swǽg *  
 0086 philosophical  
 0087 retro  
 0088 hazelnut  
@@ -93,7 +93,7 @@
 0090 niece  
 0091 dizzy  
 0092 retard  
-0093 pretend  
+0093 pretender  
 0094 brick  
 0095 scatter  
 0096 ammeter ǽmmìtər  
@@ -144,7 +144,7 @@
 0039 故障, 衰弱  
 0040 尻  
 0041 要塞  
-0042 怖がらせる  
+0042 嫌なやつ  
 0043 けいれんする  
 0044 おてんば娘  
 0045 someone who tries too hard to do what another person wants, especially in a romantic relationship  
@@ -522,7 +522,6 @@
 0262 ruin  
 0263 sensual  
 0264 curse  
-0265 bastard bǽstərd  
 
 0251 飲み込む  
 0252 pervert  
@@ -538,4 +537,3 @@
 0262 荒廃  
 0263 官能的な  
 0264 呪い  
-0265 嫌なやつ  
