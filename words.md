@@ -47,7 +47,7 @@
 0044 tomboy  
 0045 simp  
 0046 creep  
-0047 convulsion *  
+0047 convulsion kənvʌ́lʃən *  
 0048 addict 名前動後  
 0049 stargaze  
 0050 incorporate  
