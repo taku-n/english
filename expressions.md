@@ -588,6 +588,7 @@ ig: I guess
 iirc: If I remember correctly  
 Ima: I am going to (but nearer at the time)  
 imao: in my arrogant opinion  
+joi: jerk off instruction  
 nvm: never mind  
 onl: online
 scw: sex crazed women  
@@ -638,6 +639,8 @@ welp: well + help 希望がない感じを伴う
 0035 the all-time best ...  
 0036 social media  
 0037 feel for  
+0038 take a hint  
+0039 get the message  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -677,3 +680,5 @@ welp: well + help 希望がない感じを伴う
 0035 史上最高の...  
 0036 SNS  
 0037 同情する I feel for you. お察しします  
+0038 察する ピンとくる  
+0039 察する 伝わる  
