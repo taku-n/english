@@ -526,6 +526,8 @@
 0266 cringe  
 0267 fit  
 0268 insurance inʃúərəns  
+0269 cape  
+0270 hydrangea haidréindʒə  
 
 0251 飲み込む  
 0252 pervert  
@@ -545,3 +547,5 @@
 0266 ドン引きする  
 0267 発作  
 0268 保険  
+0269 岬  
+0270 アジサイ  
