@@ -34,7 +34,7 @@
 0031 tease  
 0032 pet  
 0033 silly  
-0034 incarnate *  
+0034 incarnate《形》inkɑ́ːrnət《動》inkɑ́ːrneit *  
 0035 jumpy  
 0036 detonation  
 0037 radius  
