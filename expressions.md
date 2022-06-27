@@ -159,6 +159,10 @@ It's no big deal. まったく問題ない
 
 I don't deserve to live. わたしは生きる価値がない  
 
+### decide
+
+I decided not to. (やっぱり) やめた  
+
 ### do
 
 What do you like to do in your free time? 暇なときなにしてるの  
