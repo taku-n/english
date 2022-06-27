@@ -149,7 +149,7 @@
 0044 おてんば娘  
 0045 someone who tries too hard to do what another person wants, especially in a romantic relationship  
 0046 ゾッとさせる  
-0047 けいれん  
+0047 けいれん convulsion fit けいれん発作  
 0048 中毒者  
 0049 星を見つめる  
 0050 組み込む  
@@ -524,6 +524,7 @@
 0264 curse  
 0265 unravel ʌnrǽvəl  
 0266 cringe  
+0267 fit  
 
 0251 飲み込む  
 0252 pervert  
@@ -541,3 +542,4 @@
 0264 呪い  
 0265 糸をほどく 謎を解く  
 0266 ドン引きする  
+0267 発作  
