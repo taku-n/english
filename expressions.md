@@ -1119,6 +1119,11 @@ welp: well + help 希望がない感じを伴う
 0231 endurance  
 0232 desperate déspərət  
 0233 speculation  
+0234 thumb  
+0235 index  
+0236 middle  
+0237 ring  
+0238 pinky  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -1153,3 +1158,12 @@ welp: well + help 希望がない感じを伴う
 0231 耐久性  
 0232 やけくそになった  
 0233 憶測 投機  
+0234 親指  
+0235 人差し指  
+0236 中指  
+0237 薬指  
+0238 小指  
+
+0251
+
+0251
