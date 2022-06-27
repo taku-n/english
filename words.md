@@ -444,6 +444,18 @@
 0236 middle  
 0237 ring  
 0238 pinky  
+0239 couple  
+0240 insane  
+0241 contender  
+0242 instruct  
+0243 convince  
+0244 drain  
+0245 mimic  
+0246 mimick  
+0247 confront  
+0248 intimate íntəmət  
+0249 humiliation hjuːmìliéiʃən  
+0250 twirl twərl  
 
 0201 謙虚な  
 0202 衛生的な  
@@ -483,7 +495,47 @@
 0236 中指  
 0237 薬指  
 0238 小指  
+0239 男女のカップル  
+0240 常軌を逸した  
+0241 現チャンピオンに挑む挑戦者  
+0242 指導する  
+0243 納得させる  
+0244 空にする  
+0245 まねる mimic mimics mimicking mimicked  
+0246 mimic  
+0247 問題に立ち向かう  
+0248 親密な (性的な関係を連想させることがある)  
+0249 屈辱  
+0250 くるくる回す  
 
-0251
+0251 swallow  
+0252 perv pəːv  
+0253 pervert 名前動後《動》pərvə́ːrt《名》pə́ːrvəːrt  
+0254 verbal  
+0255 ensue ensúː  
+0256 twitch  
+0257 lingerie lɑ̀nʒəréi  
+0258 hump  
+0259 doggystyle  
+0260 torture tɔ́rtʃər  
+0261 sate séit  
+0262 ruin  
+0263 sensual  
+0264 curse  
+0265 bastard bǽstərd  
 
-0251
+0251 飲み込む  
+0252 pervert  
+0253 変態  
+0254 口頭の  
+0255 あとにつづいて起きる Strange things ensued in the house after I left. 私が去った後その家では奇妙なことが立て続けに起きた  
+0256 ピクピク動く  
+0257 ランジェリ  
+0258 ヤる  
+0259 後背位  
+0260 拷問  
+0261 十分に満足させる  
+0262 荒廃  
+0263 官能的な  
+0264 呪い  
+0265 嫌なやつ  
