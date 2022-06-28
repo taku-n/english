@@ -1,6 +1,6 @@
 # Words
 
-0000 rebel  
+0000 rebel 名形前動後《名・形》rébl《動》ribél  
 0001 rot  
 0002 smack  
 0003 feelings  
