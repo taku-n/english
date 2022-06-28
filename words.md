@@ -25,7 +25,7 @@
 0022 affair  
 0023 discrimination  
 0024 accuracy  
-0025 flirt  
+0025 flirt flə́ːrt  
 0026 compliment《動》kɑ́mpləmènt《名》kɑ́mpləmənt  
 0027 tend  
 0028 square  
