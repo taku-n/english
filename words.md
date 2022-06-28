@@ -531,6 +531,7 @@
 0271 excuse《動》ikskjúːz《名》ikskjúːs  
 0272 swell  
 0273 psst  
+0274 rival ráivəl  
 
 0251 飲み込む  
 0252 pervert  
@@ -555,3 +556,4 @@
 0271 許す 言い訳  
 0272 膨れる  
 0273 ねえ  
+0274 ライバル  
