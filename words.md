@@ -1,7 +1,7 @@
 # Words
 
 0000 rebel 名形前動後《名・形》rébl《動》ribél  
-0001 rot  
+0001 rot rɑ́t  
 0002 smack  
 0003 feelings  
 0004 anxiety is a noun  
@@ -12,7 +12,7 @@
 0009 endearment *  
 0010 sue  
 0011 bork  
-0012 handsome  
+0012 handsome hǽnsəm  
 0013 frighten  
 0014 indifferent  
 0015 toss  
