@@ -535,6 +535,7 @@
 0275 decent díːsənt  
 0276 stab stǽb  
 0277 introvert 名形前動後《名・形》íntrəvə̀ːrt《動》ìntrəvə́ːrt  
+0278 scooter  
 
 0251 飲み込む  
 0252 pervert  
@@ -563,3 +564,4 @@
 0275 まともな  
 0276 刺す  
 0277 内向的な 内に曲げる  
+0278 スクーター  
