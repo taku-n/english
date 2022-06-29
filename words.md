@@ -58,7 +58,7 @@
 0055 reason  
 0056 enjoyable  
 0057 sociable  
-0058 extrovert  
+0058 extrovert ékstrəvə̀ːrt  
 0059 distraction  
 0060 cucumber  
 0061 apparently əpǽrəntli spelling  
@@ -75,7 +75,7 @@
 0072 finely  
 0073 frank  
 0074 close  
-0075 adore  
+0075 adore ədɔ́r  
 0076 determine  
 0077 constraint kənstréint *  
 0078 cuckold  
@@ -98,7 +98,7 @@
 0095 scatter  
 0096 ammeter ǽmmìtər  
 0097 malfunction mæ̀lfʌ́ŋkʃən  
-0098 reward  
+0098 reward riwɔ́rd  
 0099 desperation dèspəréiʃən  
 0100 overthink  
 
@@ -534,6 +534,7 @@
 0274 rival ráivəl  
 0275 decent díːsənt  
 0276 stab stǽb  
+0277 introvert 名形前動後《名・形》íntrəvə̀ːrt《動》ìntrəvə́ːrt  
 
 0251 飲み込む  
 0252 pervert  
@@ -561,3 +562,4 @@
 0274 ライバル  
 0275 まともな  
 0276 刺す  
+0277 内向的な 内に曲げる  
