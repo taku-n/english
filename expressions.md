@@ -308,6 +308,9 @@ Can you make it? できそうですか
 I will try my best to make it. なんとかしてみます  
 It makes me want to ... したくなる  
 
+“If you want to make up with your friend, then you should apologize first.”
+（もし友達と仲直りしたいのなら、まずあなたが先に謝るべきです。）
+
 ### many
 
 How many presidents were there before Lincoln? リンカーンより前には大統領が何人いましたか  
@@ -419,6 +422,24 @@ I've never seen ... before. いまはじめて見た。まだ見たことがな�
 (I|We)'ll see. あとで決めます  
 
 ### seem
+
+seem to do
+
+He seems to have an opinion different from mine.
+（彼には私とは違う意見があるようだ。）
+
+The manager’s weak leadership seems to affect the performance of his staff.
+（課長のリーダーシップが弱いので、スタッフのパフォーマンスに影響しているようだ。）
+
+The stock price seems to show the expectation of investors.
+(株価は投資家の期待を示しているようだ。）
+
+話し手の主語に対する主観的な印象を述べています。
+
+I seem to remember that I have responded to the same question.
+（同じ質問に答えたように思うのですが。）
+
+‘I seem to remember that’　を付けて丁寧な表現にしています。
 
 I have a fever and cough. （It） Seems like I caught a cold.  
 （熱もあるし、咳も出る。風邪を引いたようだ。）
