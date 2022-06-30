@@ -538,7 +538,8 @@
 0278 scooter  
 0279 liability  
 0280 mind  
-0281 rubberstamp  
+0281 rubberstamp rʌ́bər-stǽmp  
+0282 quota kwóutə  
 
 0251 飲み込む  
 0252 pervert  
@@ -571,3 +572,4 @@
 0279 法的責任  
 0280 嫌だと思う  
 0281 ゴム印を押す  
+0282 割り当て量  
