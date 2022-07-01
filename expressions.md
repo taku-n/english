@@ -485,7 +485,8 @@ I am sorry about the delay. 遅延が出てて残念だ (他責)
 
 to 以降はこれから起こること  
 I am sorry to bother you, but do you have a minute? 邪魔して悪いけど、時間ある？  
-I’m sorry to say, but I disagree with you. ごめん、でも同意できないよ。  
+I am sorry to say, but I disagree with you. ごめん、でも同意できないよ。  
+I am sorry to waste your time. 手間をかけてすみません  
 
 I am sorry I can not agree with you.  
 I am sorry to have disagreed with you. 同じ意味  
