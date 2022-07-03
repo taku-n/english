@@ -668,6 +668,7 @@ welp: well + help 希望がない感じを伴う
 0038 take a hint  
 0039 get the message  
 0040 suit yourself  
+0041 poon juice  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -710,3 +711,4 @@ welp: well + help 希望がない感じを伴う
 0038 察する ピンとくる  
 0039 察する 伝わる  
 0040 勝手にしたら  
+0041 愛液  
