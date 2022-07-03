@@ -540,6 +540,7 @@
 0280 mind  
 0281 rubberstamp rʌ́bər-stǽmp  
 0282 quota kwóutə  
+0283 pursue pərsúː  
 
 0251 飲み込む  
 0252 pervert  
@@ -573,3 +574,4 @@
 0280 嫌だと思う  
 0281 ゴム印を押す  
 0282 割り当て量  
+0283 追求する  
