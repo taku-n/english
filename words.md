@@ -541,6 +541,12 @@
 0281 rubberstamp rʌ́bər-stǽmp  
 0282 quota kwóutə  
 0283 pursue pərsúː  
+0284 marvel mɑ́rvl  
+0285 marble mɑ́rbəl  
+0286 avenger  
+0287 avenge  
+0288 revenge  
+0289 poon  
 
 0251 飲み込む  
 0252 pervert  
@@ -575,3 +581,9 @@
 0281 ゴム印を押す  
 0282 割り当て量  
 0283 追求する  
+0284 驚異  
+0285 おはじき ビー玉  
+0286 復讐者  
+0287 不正を正すために復讐する  
+0288 個人的な恨みから復讐する  
+0289 女性器  
