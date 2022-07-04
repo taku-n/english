@@ -628,6 +628,7 @@
 0316 threesome  
 0317 reincarnate《動》rìːinkɑ́ːrneit 《形》rìːinkɑ́ːrnət  
 0318 occasionally spell  
+0319 hyphen háifn  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -647,3 +648,4 @@
 0316 3つ組の 3P  
 0317 転生する  
 0318 たまに  
+0319 ハイフン  
