@@ -91,7 +91,7 @@
 0088 hazelnut  
 0089 nephew  
 0090 niece  
-0091 dizzy  
+0091 dizzy *  
 0092 retard  
 0093 pretender  
 0094 brick  
