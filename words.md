@@ -629,6 +629,7 @@
 0317 reincarnate《動》rìːinkɑ́ːrneit 《形》rìːinkɑ́ːrnət  
 0318 occasionally spell  
 0319 hyphen háifn  
+0320 booth  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -649,3 +650,4 @@
 0317 転生する  
 0318 たまに  
 0319 ハイフン  
+0320 ブース  
