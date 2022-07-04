@@ -541,6 +541,10 @@ Thank you for everything you have done for me. 今までありがとうござい
 then は副詞であり接続詞ではない  
 文をつなげたければ ... and then ...  
 
+### thing
+
+It is my thing. 好きなことです  
+
 ### think
 
 I thought ... かと思っていた  
