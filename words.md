@@ -217,7 +217,7 @@
 0111 soda sóudə  
 0112 distinguish  
 0113 cheer  
-0114 Arabic  
+0114 Arabic ǽrəbik  
 0115 pity  
 0116 confuse  
 0117 act  
