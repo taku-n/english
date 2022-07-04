@@ -344,6 +344,11 @@ It's not that I dislike Yakiniku. 焼肉が嫌いというわけではない
 
 What number are you? あなたは何番目  
 
+### only
+
+She is only 18. まだ 18歳 です  
+X She is still 18. いまだに 18歳 です (永遠の 18歳)  
+
 ### out
 
 What do you like the best out of all fruit?  
@@ -597,6 +602,7 @@ kind of -> kinda
 
 ## Abbreviations
 
+aka: also known as  
 asf: as F (like “extremely so.”)  
 atm: at the moment  
 brb: be right back  
@@ -669,6 +675,8 @@ welp: well + help 希望がない感じを伴う
 0039 get the message  
 0040 suit yourself  
 0041 poon juice  
+0042 waste time  
+0043 get on in life  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -712,3 +720,5 @@ welp: well + help 希望がない感じを伴う
 0039 察する 伝わる  
 0040 勝手にしたら  
 0041 愛液  
+0042 時間を無駄にする  
+0043 出世する  
