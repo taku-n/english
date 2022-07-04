@@ -636,6 +636,7 @@ simp: simpleton 好きな女性に入れ込みすぎて、彼女に好かれる�
 sub: subtitle  
 sus: suspicious 怪しい  
 welp: well + help 希望がない感じを伴う  
+ytd: year to date 年初来  
 
 ## Idioms
 
