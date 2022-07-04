@@ -618,6 +618,10 @@
 0306 compromise  
 0307 babe  
 0308 asphalt ǽsfɔːlt  
+0309 compliance  
+0310 cleavage klíːvidʒ  
+0311 abundant əbʌ́ndənt  
+0312 abandon əbǽndən  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -626,4 +630,8 @@
 0305 イベントの世話役  
 0306 譲歩 妥協  
 0307 かわいい女の子 セクシーな女  
-0309 アスファルト  
+0308 アスファルト  
+0309 順守  
+0310 胸の谷間  
+0311 豊富な abundant cleavage 豊かな胸の谷間  
+0312 置き去りにする  
