@@ -226,7 +226,7 @@
 0120 Muslim mʌ́zlim  
 0121 depress  
 0122 dear  
-0123 adjective  
+0123 adjective ǽdʒiktiv  
 0124 noun  
 0125 goodwill  
 0126 pluck  
