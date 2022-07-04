@@ -52,7 +52,7 @@
 0049 stargaze  
 0050 incorporate  
 0051 pal  
-0052 sloppy  
+0052 sloppy slɑ́pi *  
 0053 coordinate  
 0054 thick  
 0055 reason  
