@@ -633,6 +633,7 @@
 0321 vibe  
 0322 immerse  
 0323 inquiry inkwáiəri  
+0324 tribe  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -657,3 +658,4 @@
 0321 リラックスする  
 0322 没頭させる  
 0323 問い合わせ  
+0324 部族  
