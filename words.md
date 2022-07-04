@@ -548,6 +548,16 @@
 0288 revenge  
 0289 poon  
 0290 complain  
+0291 expressive  
+0292 amiable éimiəbl  
+0293 dexterity  
+0294 frailty  
+0295 conservancy  
+0296 obsess əbsés  
+0297 tutor tútər  
+0298 engage engéidʒ  
+0299 engagement  
+0300 wed  
 
 0251 飲み込む  
 0252 pervert  
@@ -589,3 +599,29 @@
 0288 個人的な恨みから復讐する  
 0289 女性器  
 0290 不満を言う  
+0291 表情豊かな  
+0292 親切な 感じのいい  
+0293 器用さ He lacks the dexterity needed to get on in life. 出世するほど器用ではない  
+0294 高齢者の筋力や活動が低下している状態  
+0295 自然保護  
+0296 頭から離れなくする He is obsessed with his baby.  
+0297 家庭教師  
+0298 婚約する  
+0299 婚約 engagement ring 婚約指輪  
+0300 結婚 結婚させる wedding band 結婚指輪  
+
+0301 marry mǽri  
+0302 marriage mǽridʒ  
+0303 ragout rægúː  
+0304 stew stúː  
+0305 steward stjúːərd  
+0306 compromise  
+0307 babe  
+
+0301 結婚する Will you marry me?  
+0302 結婚  
+0303 〈フランス語〉ラグー◆肉や魚を野菜や香辛料で煮込んだもの。英語のstew（シチュー）にあたる  
+0304 シチュー とろ火で煮る  
+0305 イベントの世話役  
+0306 譲歩 妥協  
+0307 かわいい女の子 セクシーな女  
