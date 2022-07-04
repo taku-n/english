@@ -617,6 +617,7 @@
 0305 steward stjúːərd  
 0306 compromise  
 0307 babe  
+0308 asphalt ǽsfɔːlt  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -625,3 +626,4 @@
 0305 イベントの世話役  
 0306 譲歩 妥協  
 0307 かわいい女の子 セクシーな女  
+0309 アスファルト  
