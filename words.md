@@ -634,6 +634,7 @@
 0322 immerse  
 0323 inquiry inkwáiəri  
 0324 tribe  
+0325 enchant entʃǽnt  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -659,3 +660,4 @@
 0322 没頭させる  
 0323 問い合わせ  
 0324 部族  
+0325 魅了する  
