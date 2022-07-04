@@ -21,6 +21,10 @@
 
 https://toiguru.jp/gerund  
 
+### Present Continuous Tense
+
+[近い未来の予定は現在進行形](https://e-grammar.info/tense/future_present_progress.html)  
+
 ### Interjection
 
 [気まずい沈黙を乗り切る！～つなぎの英語表現](https://eikaiwa.dmm.com/blog/expressions/expression/well-you-know/)  
