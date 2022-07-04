@@ -214,7 +214,7 @@
 0108 assume əsúːm  
 0109 subordinate  
 0110 orgy  
-0111 soda  
+0111 soda sóudə  
 0112 distinguish  
 0113 cheer  
 0114 Arabic  
