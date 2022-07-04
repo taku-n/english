@@ -622,6 +622,12 @@
 0310 cleavage klíːvidʒ  
 0311 abundant əbʌ́ndənt  
 0312 abandon əbǽndən  
+0313 clumsy klʌ́mzi  
+0314 disrespectfully  
+0315 triplet  
+0316 threesome  
+0317 reincarnate《動》rìːinkɑ́ːrneit 《形》rìːinkɑ́ːrnət  
+0318 occasionally spell  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -635,3 +641,9 @@
 0310 胸の谷間  
 0311 豊富な abundant cleavage 豊かな胸の谷間  
 0312 置き去りにする  
+0313 動作が不器用な  
+0314 失礼に  
+0315 3つぞろい  
+0316 3つ組の 3P  
+0317 転生する  
+0318 たまに  
