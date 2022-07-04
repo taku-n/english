@@ -630,6 +630,8 @@
 0318 occasionally spell  
 0319 hyphen háifn  
 0320 booth  
+0321 vibe  
+0322 immerse  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -651,3 +653,5 @@
 0318 たまに  
 0319 ハイフン  
 0320 ブース  
+0321 リラックスする  
+0322 没頭させる  
