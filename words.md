@@ -636,6 +636,7 @@
 0324 tribe  
 0325 enchant entʃǽnt  
 0326 besides  
+0327 oblivious əblíviəs  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -663,3 +664,4 @@
 0324 部族  
 0325 魅了する  
 0326 加えて  
+0327 叙述形容詞 忘れている  
