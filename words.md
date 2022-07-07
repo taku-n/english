@@ -648,6 +648,7 @@
 0336 disclaimer  
 0337 ambition æmbíʃən  
 0338 catchy  
+0339 variant vέəriənt  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -687,3 +688,4 @@
 0336 免責事項  
 0337 大志  
 0338 人の心を捉えそうな  
+0339 変異している  
