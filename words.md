@@ -649,6 +649,15 @@
 0337 ambition æmbíʃən  
 0338 catchy  
 0339 variant vέəriənt  
+0340 conservatory kənsə́ːrvətɔ̀ːri  
+0341 ballroom bɔ́lrùm  
+0342 pool  
+0343 billiard bíljərd  
+0344 bystander báistæ̀ndər  
+0345 clue  
+0346 wick  
+0347 wicked wíkid  
+0348 merchant  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -689,3 +698,12 @@
 0337 大志  
 0338 人の心を捉えそうな  
 0339 変異している  
+0340 温室  
+0341 ダンスホール  
+0342 ビリヤード  
+0343 ビリヤード  
+0344 傍観者  
+0345 手掛かり  
+0346 ろうそくの芯 ローソク足のヒゲ  
+0347 気持ちが悪くなる 邪悪な  
+0348 業者  
