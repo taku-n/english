@@ -637,6 +637,17 @@
 0325 enchant entʃǽnt  
 0326 besides  
 0327 oblivious əblíviəs  
+0328 shave  
+0329 syrup sə́ːrəp  
+0330 consider  
+0331 boop  
+0332 sissy sísi  
+0333 dilator  
+0334 stomp stɑmp  
+0335 render  
+0336 disclaimer  
+0337 ambition æmbíʃən  
+0338 catchy  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -665,3 +676,14 @@
 0325 魅了する  
 0326 加えて  
 0327 叙述形容詞 忘れている  
+0328 そる shaved ice かき氷  
+0329 シロップ  
+0330 検討する consider ing することを検討する  
+0331 鼻の頭をつつく  
+0332 女々しい  
+0333 拡張器  
+0334 踏み鳴らす  
+0335 データを解釈して視覚的に表示する  
+0336 免責事項  
+0337 大志  
+0338 人の心を捉えそうな  
