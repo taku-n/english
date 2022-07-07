@@ -658,6 +658,8 @@
 0346 wick  
 0347 wicked wíkid  
 0348 merchant  
+0349 affection  
+0350 gross gróus  
 
 0301 結婚する Will you marry me?  
 0302 結婚  
@@ -707,3 +709,11 @@
 0346 ろうそくの芯 ローソク足のヒゲ  
 0347 気持ちが悪くなる 邪悪な  
 0348 業者  
+0349 愛情  
+0350 気持ち悪い  
+
+0351 express  
+0352 complaint kəmpléint  
+
+0351 考えや気持ちを言う  
+0352 不満  
