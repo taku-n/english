@@ -228,7 +228,7 @@
 0122 dear  
 0123 adjective ǽdʒiktiv  
 0124 noun  
-0125 goodwill  
+0125 goodwill gúdwíl  
 0126 pluck  
 0127 spirit  
 0128 bio báiou  
@@ -714,6 +714,28 @@
 
 0351 express  
 0352 complaint kəmpléint  
+0353 expect  
+0354 immature ìmətúr  
+0355 snatch snǽtʃ  
+0356 melancholy mélənkɑ̀li  
+0357 farewell fὲərwél  
+0358 futuristic fjùːtʃərístik  
+0359 saw sɔ  
+0360 aim éim  
+0361 okay spell  
+0362 dismiss  
+0363 inflatable infléitəbl  
 
 0351 考えや気持ちを言う  
 0352 不満  
+0353 期待する 予期する  
+0354 未熟な  
+0355 ひったくる snatch a bag  
+0356 憂鬱な  
+0357 さらば  
+0358 未来的な  
+0359 のこぎりで切る  
+0360 狙う  
+0361 Okay.  
+0362 却下する  
+0363 空気注入式の  
