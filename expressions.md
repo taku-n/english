@@ -225,6 +225,8 @@ How's it going to end? この先の運命は
 How's it going?  調子はどう  
 [「How's it going?」の使い方！上手に質問・返答するには](https://nativecamp.net/blog/20220206_phrase)  
 
+Where else did you go? ほかにどちらへ行きましたか  
+
 ### google
 
 Try googling “simple recipes.” 「簡単なレシピ」でググってみて  
