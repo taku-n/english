@@ -55,7 +55,7 @@
 0052 sloppy slɑ́pi *  
 0053 coordinate  
 0054 thick  
-0055 reason  
+0055 reason *  
 0056 enjoyable  
 0057 sociable  
 0058 extrovert ékstrəvə̀ːrt  
