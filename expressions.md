@@ -167,6 +167,10 @@ I don't deserve to live. わたしは生きる価値がない
 
 I decided not to. (やっぱり) やめた  
 
+### dislike
+
+What is it that you dislike about him? : 彼のどこが気に入らないのですか？  
+
 ### do
 
 What do you like to do in your free time? 暇なときなにしてるの  
