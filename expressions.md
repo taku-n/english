@@ -687,6 +687,8 @@ ytd: year to date 年初来
 0042 waste time  
 0043 get on in life  
 0044 in touch  
+0045 go for a walk  
+0046 keep in touch  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -733,3 +735,5 @@ ytd: year to date 年初来
 0042 時間を無駄にする  
 0043 出世する  
 0044 連絡する  
+0045 散歩する  
+0046 連絡を保つ  
