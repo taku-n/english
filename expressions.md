@@ -231,6 +231,8 @@ How's it going?  調子はどう
 
 Where else did you go? ほかにどちらへ行きましたか  
 
+I want to go back and start all over again. あの頃に戻ってもう一度すべてをやり直したい  
+
 ### google
 
 Try googling “simple recipes.” 「簡単なレシピ」でググってみて  
