@@ -725,6 +725,7 @@
 0361 okay spell  
 0362 dismiss  
 0363 inflatable infléitəbl  
+0364 riot ráiət  
 
 0351 考えや気持ちを言う  
 0352 不満  
@@ -739,3 +740,4 @@
 0361 Okay.  
 0362 却下する  
 0363 空気注入式の  
+0364 暴動  
