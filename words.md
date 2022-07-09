@@ -728,6 +728,7 @@
 0364 riot ráiət  
 0365 sanctuary sǽŋktʃuèri  
 0366 snuggle snʌ́gl  
+0367 clumsily klʌ́mzili  
 
 0351 考えや気持ちを言う  
 0352 不満  
@@ -745,3 +746,4 @@
 0364 暴動  
 0365 聖域  
 0366 抱き寄せる  
+0367 不器用に  
