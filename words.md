@@ -729,6 +729,19 @@
 0365 sanctuary sǽŋktʃuèri  
 0366 snuggle snʌ́gl  
 0367 clumsily klʌ́mzili  
+0368 tribute tríbjuːt  
+0369 nope nóup  
+0370 sting  
+0371 stink  
+0372 endure endúər  
+0373 confirm  
+0374 compress 名前動後《動》kəmprés《名》kɑ́mprès  
+0375 strongly strɔ́(ː)ŋli  
+0376 commit  
+0377 dedicate  
+0378 lovable lʌ́vəbəl  
+0379 dwarf dwɔ́rf  
+0380 payback  
 
 0351 考えや気持ちを言う  
 0352 不満  
@@ -747,3 +760,16 @@
 0365 聖域  
 0366 抱き寄せる  
 0367 不器用に  
+0368 感謝や尊敬の贈り物  
+0369 no  
+0370 刺す  
+0371 悪臭を放つ  
+0372 我慢する I can not endure any more. 我慢にもほどがある  
+0373 確認する  
+0374 湿布  
+0375 強く  
+0376 犯す  
+0377 献身する  
+0378 愛らしい  
+0379 小人  
+0380 払戻金  
