@@ -698,6 +698,7 @@ ytd: year to date 年初来
 0045 go for a walk  
 0046 keep in touch  
 0047 bring it  
+0048 emotionally unstable  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -747,3 +748,4 @@ ytd: year to date 年初来
 0045 散歩する  
 0046 連絡を保つ  
 0047 かかって来いよ  
+0048 メンヘラ  
