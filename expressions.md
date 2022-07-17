@@ -272,6 +272,12 @@ That’s how it is. そんなもんだよ
 That’s how it is with life. 人生そんなもんだよ  
 [【朝のひとこと英会話 vol.131】「そんなもんだよ」を英語でいうと？](https://asajikan.jp/article/89592)  
 
+はどう  
+するのはどう  
+How about ing? How about going to the Japanese restaurant?  
+How about noun? How about a cup of tea?  
+How about sentence? How about we go swimming?  
+
 ### hurt
 
 My teeth hurts. 歯が痛む  
@@ -699,6 +705,8 @@ ytd: year to date 年初来
 0046 keep in touch  
 0047 bring it  
 0048 emotionally unstable  
+0049 more than likely  
+0050 high five  
 
 0000 青信号  
 0001 slightly (bad|enjoyable)  
@@ -749,3 +757,25 @@ ytd: year to date 年初来
 0046 連絡を保つ  
 0047 かかって来いよ  
 0048 メンヘラ  
+0049 十中八九  
+0050 ハイタッチ  
+
+0051 lean one's head  
+0052 piss off  
+0053 heads up  
+0054 feel uncomfortable with  
+0055 at the moment  
+0056 hang in there  
+0057 go on  
+0058 passing anniversary  
+0059 hang out  
+
+0051 頭を寄りかける  
+0052 出て行け  
+0053 警告  
+0054 といると落ち着かない  
+0055 いまのところ  
+0056 ふんばれ 踏みとどまれ  
+0057 つづける  
+0058 命日  
+0059 ぶらぶらして過ごす  
