@@ -746,6 +746,22 @@
 0382 tough  
 0383 noblesse noublés  
 0384 oblige əbláidʒ  
+0385 intention  
+0386 greatness gréitnis  
+0387 moody  
+0388 followee  
+0389 plaza plǽzə  
+0390 phew fjúː  
+0391 atrium éitriəm  
+0392 lean  
+0393 trap  
+0394 stressful  
+0395 imply  
+0396 famine fǽmin  
+0397 ambience  
+0398 loom lúːm  
+0399 complex《動・形》kɑmpléks《名》kɑ́mplèks  
+0400 amaze  
 
 0351 考えや気持ちを言う  
 0352 不満  
@@ -781,3 +797,117 @@
 0382 乱暴な  
 0383 〈フランス語〉高貴の生まれ  
 0384 願いをかなえてやる  
+0385 意図 That is not my intention. そんなつもりはない  
+0386 偉大さ  
+0387 不機嫌な  
+0388 フォロイ  
+0389 広場 複合商業施設  
+0390 ふう はあ  
+0391 ビルの吹き抜け  
+0392 寄りかかる Do not lean against the door. ドアにもたれかからないで  
+0393 罠にかける  
+0394 ストレスの多い  
+0395 暗示する ほのめかす  
+0396 飢饉  
+0397 雰囲気  
+0398 ヌッと現れる  
+0399 複雑な  
+0400 驚嘆させる  
+
+0401 fawn fɔn  
+0402 semen síːmən  
+0403 discharge《動》distʃɑ́ːrdʒ《名》dístʃɑːrdʒ  
+0404 metaphor métəfɔ̀r  
+0405 discommunication  
+0406 ordinary ɔ́rdənèri  
+0407 killifish kílifìʃ  
+0408 overall《名・形》óuvərɔ̀ːl《副》òuvərɔ́ːl  
+0409 coward káuərd  
+0410 persistence  
+0411 nevertheless  
+0412 coordination kouɔ̀rdənéiʃən  
+0413 conscientious kɑ̀nʃiénʃəs  
+0414 objection  
+0415 institution ìnstətúːʃən  
+0416 correctional  
+0417 bail  
+0418 breakage bréikidʒ  
+0419 heartily  
+0420 arrange  
+0421 sussy  
+0422 fearsome  
+0423 beloved《名・形》bilʌ́vid《動》bilʌ́vd  
+0424 bonfire bɑ́nfàir  
+0425 titty títi  
+0426 haze  
+0427 dodge dɑdʒ  
+0428 dim  
+0429 spar  
+0430 elimination ilìmənéiʃən  
+0431 sneak snik  
+0432 leet  
+0433 squiggly  
+0434 alley ǽli  
+0435 ally《動》əlái《名》ǽlai  
+0436 unbothered ʌ̀nbɔ́ðərd  
+0437 dehorn diːhɔ́rn  
+0438 validation  
+0439 liver lívər  
+0440 kidney kídni  
+0441 stomach stʌ́mək  
+0442 stinky  
+0443 trauma tráumə  
+0444 binocular bainɑ́ːkjələr  
+0445 sake  
+0446 loose lúːs  
+0447 lose luz  
+0448 argument  
+
+0401 お世辞を言う  
+0402 精液  
+0403 放出する  
+0404 隠喩  
+0405 コミュニケーションのない状態  
+0406 普通の  
+0407 メダカ  
+0408 全体の 全体に  
+0409 臆病者  
+0410 粘り強さ  
+0411 それにもかかわらず  
+0412 調整  
+0413 誠実な  
+0414 反論  
+0415 機関 団体 協会  
+0416 思想矯正のための  
+0417 ずらかる  
+0418 破損  
+0419 一生懸命に  
+0420 きちんと並べる  
+0421 怪しい  
+0422 恐ろしい  
+0423 恋人 直前に one's を伴う  
+0424 大きなたき火  
+0425 乳房  
+0426 もや かすみ  
+0427 素早く避ける  
+0428 薄暗い  
+0429 スパークリングをする  
+0430 除外  
+0431 こっそり動く  
+0432 ハッカー風の書き方  
+0433 曲がりくねった  
+0434 小道  
+0435 協力者  
+0436 関心を持たない  
+0437 角を切り取る  
+0438 検証  
+0439 肝臓  
+0440 腎臓  
+0441 胃 おなか  
+0442 臭い  
+0443 トラウマ  
+0444 双眼鏡  
+0445 目的  
+0446 グラグラした  
+0447 失う  
+0448 議論  
