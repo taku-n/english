@@ -926,6 +926,7 @@
 0458 timing  
 0459 accent  
 0460 Papua New Guinea pǽpjuə núː gíni  
+0461 sympathizer símpəθaizər  
 
 0451 複数形  
 0452 Past tense and past participle of overthink.  
@@ -937,3 +938,4 @@
 0458 タイミング  
 0459 アクセント  
 0460 パプアニューギニア  
+0461 支持者  
