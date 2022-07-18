@@ -863,6 +863,7 @@
 0447 lose luz  
 0448 argument  
 0449 clarity klǽrəti  
+0450 kudos kúːdɔs  
 
 0401 お世辞を言う  
 0402 精液  
@@ -913,3 +914,20 @@
 0447 失う  
 0448 議論  
 0449 鮮明さ  
+0450 称賛  
+
+0451 plural plúərəl  
+0452 overthought  
+0453 tense  
+0454 participle pɑ́rtəsìpl  
+0455 past  
+0456 cape  
+0457 assertive  
+
+0451 複数形  
+0452 Past tense and past participle of overthink.  
+0453 時制  
+0454 分詞  
+0455 過去の in the past two years この 2年間 で  
+0456 岬  
+0457 積極的な  
