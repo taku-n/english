@@ -209,7 +209,7 @@
 0103 suffer  
 0104 charm  
 0105 pretty  
-0106 faze  
+0106 not faze  
 0107 jar  
 0108 assume əsúːm  
 0109 subordinate  
@@ -250,28 +250,28 @@
 0144 spine spáin  
 0145 jerk  
 0146 paranoia pæ̀rənɔ́iə  
-0147 canny kǽni  
+0147 canny kǽni **  
 0148 considerate  
-0149 conceited kənsíːtəd  
+0149 conceited kənsíːtəd *  
 0150 careless  
 0151 worry  
 0152 bunch  
 0153 genre ʒɑ́nrə  
 0154 milk  
 0155 stone  
-0156 convince  
+0156 convince *  
 0157 impress  
 0158 move  
 0159 touch  
 0160 furry fə́ːri  
 0161 wobble wɑ́bl  
 0162 argue ɑ́rgjuː  
-0163 deceive  
+0163 deceive *  
 0164 dedication  
-0165 complacent kəmpléisənt  
+0165 complacent kəmpléisənt *  
 0166 embrace  
 0167 enthusiastic  
-0168 decry  
+0168 decry *  
 0169 fret  
 0170 lame  
 0171 kiddo  
@@ -283,7 +283,7 @@
 0177 bet  
 0178 ominous ɑ́mənəs  
 0179 inconspicuous ìnkənspíkjuəs  
-0180 adolescent æ̀dəlés(ə)nt  
+0180 adolescent æ̀dəlés(ə)nt   
 0181 Jubilee dʒúːbəlìː  
 0182 censor sénsər  
 0183 reincarnation rìːinkɑːnéiʃən  
@@ -294,10 +294,10 @@
 0188 diversity dəvə́ːrsəti  
 0189 unhappy  
 0190 suicidal sùəsáidəl  
-0191 premenstrual priːménstruəl  
+0191 premenstrual priːménstruəl *  
 0192 syndrome síndroum  
 0193 stressful  
-0194 polysaccharide pɔ̀lisǽkəràid  
+0194 polysaccharide pɔ̀lisǽkəràid *  
 0195 hilarious hilέəriəs  
 0196 sullen sʌ́lən  
 0197 resume rézəmèi  
@@ -923,6 +923,8 @@
 0455 past  
 0456 cape  
 0457 assertive  
+0458 timing  
+0459 accent  
 
 0451 複数形  
 0452 Past tense and past participle of overthink.  
@@ -931,3 +933,5 @@
 0455 過去の in the past two years この 2年間 で  
 0456 岬  
 0457 積極的な  
+0458 タイミング  
+0459 アクセント  
