@@ -610,6 +610,10 @@ She would be ［ have been ］ 80 when she died.
 What's wrong? どうしたの 大丈夫  
 What's wrong with you? 頭おかしいだろ (with you を付けるだけでとんでもないことに)  
 
+## Mathematics
+
+1:2 one-to-two  
+
 ## Linkings, Reductions and Flappings
 
 you -> ya  
