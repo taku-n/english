@@ -929,6 +929,7 @@
 0461 sympathizer símpəθaizər  
 0462 adorable ədɔ́rəbəl  
 0463 humility hjuːmíləti  
+0464 coffin kɔ́ːfin  
 
 0451 複数形  
 0452 Past tense and past participle of overthink.  
@@ -943,3 +944,4 @@
 0461 支持者  
 0462 動物や子供などがかわいらしい  
 0463 謙遜  
+0464 ひつぎ  
