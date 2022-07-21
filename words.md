@@ -930,6 +930,12 @@
 0462 adorable ədɔ́rəbəl  
 0463 humility hjuːmíləti  
 0464 coffin kɔ́ːfin  
+0465 hemisphere  
+0466 needy  
+0467 unreleased  
+0468 mutual  
+0469 dove dʌ́v  
+0470 fleet  
 
 0451 複数形  
 0452 Past tense and past participle of overthink.  
@@ -945,3 +951,9 @@
 0462 動物や子供などがかわいらしい  
 0463 謙遜  
 0464 ひつぎ  
+0465 半球  
+0466 愛情に飢えた  
+0467 未公開の  
+0468 お互いの Thank you. -> Thanks is mutual. お互いさまです  
+0469 ハト  
+0470 保有車両  
