@@ -233,6 +233,8 @@ Where else did you go? ほかにどちらへ行きましたか
 
 I want to go back and start all over again. あの頃に戻ってもう一度すべてをやり直したい  
 
+Way to go. 偉いね すごいな よくやったね  
+
 ### google
 
 Try googling “simple recipes.” 「簡単なレシピ」でググってみて  
@@ -292,6 +294,10 @@ I’m happy to have him back here again, if only for a few days.
 たった数日で彼を戻すことになって、よかったです 理由  
 It’s time for our party to unite if only to help the men who tried to protect us.  
 私たちを守ろうとした人たちを助けるために、一致団結するときです 理由  
+
+### impress  
+
+I am impressed. よくやったね 偉いね  
 
 ### into
 
@@ -408,6 +414,10 @@ No pressure. プレッシャーに思わないでね
 ・I'm going to pretend that didn't happen. : 私は、それ［今の出来事］が起きなかった、というふりをするつもりです。／なかったことにしよう［しておこう］。◆【場面】不都合な出来事・気まずい出来事などについて。  
 ・Let's pretend this never happened. : これは、なかったことにしておきましょう。  
 I pretend not to hear him. 彼の声が聞こえないふりをする  
+
+### proud  
+
+I am proud of you. 偉いね がんばったね  
 
 ### regret
 
