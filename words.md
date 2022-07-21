@@ -212,7 +212,7 @@
 0106 not faze  
 0107 jar  
 0108 assume əsúːm  
-0109 subordinate  
+0109 subordinate《形・名》səbɔ́rdənit《動》səbɔ́rdənèit  
 0110 orgy  
 0111 soda sóudə  
 0112 distinguish  
