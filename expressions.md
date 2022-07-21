@@ -773,6 +773,11 @@ ytd: year to date 年初来
 0057 go on  
 0058 passing anniversary  
 0059 hang out  
+0060 live up to  
+0061 the Atlantic Ocean  
+0062 hear of  
+0063 for now  
+0064 meant to be  
 
 0051 頭を寄りかける  
 0052 出て行け  
@@ -783,3 +788,8 @@ ytd: year to date 年初来
 0057 つづける  
 0058 命日  
 0059 ぶらぶらして過ごす  
+0060 応える I live up to your expectation. 期待に応える  
+0061 大西洋  
+0062 について聞く  
+0063 いまのところ  
+0064 になる運命だ になるはずだ  
