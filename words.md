@@ -303,7 +303,7 @@
 0197 resume rézəmèi  
 0198 graduate 《動》grǽdʒu：èit 《名》grǽdʒuət  
 0199 forbid  
-0200 forbade fərbǽd  
+0200 forbade fərbǽd *  
 
 0101 幸せに  
 0102 運命  
