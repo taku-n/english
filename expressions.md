@@ -788,6 +788,11 @@ ytd: year to date 年初来
 0062 hear of  
 0063 for now  
 0064 meant to be  
+0065 get up  
+0066 keep up with  
+0067 come across  
+0068 mean to  
+0069 in terms of  
 
 0051 頭を寄りかける  
 0052 出て行け  
@@ -803,3 +808,8 @@ ytd: year to date 年初来
 0062 について聞く  
 0063 いまのところ  
 0064 になる運命だ になるはずだ  
+0065 起き上がる  
+0066 遅れずについていく  
+0067 出くわす  
+0068 するつもりである  
+0069 に関して言うと  
