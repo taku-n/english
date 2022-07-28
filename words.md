@@ -936,6 +936,36 @@
 0468 mutual  
 0469 dove dʌ́v  
 0470 fleet  
+0471 acquisition æ̀kwizíʃən  
+0472 yield jíːld  
+0473 affix《動》əfíks《名》ǽfiks  
+0474 stub stʌ́b  
+0475 exploration èkspləréiʃən  
+0476 explore eksplɔ́r  
+0477 probable prɑ́bəbəl  
+0478 troublesome trʌ́blsəm  
+0479 confinement kənfáinmənt  
+0480 wholesome hóulsəm  
+0481 soundness sáundnəs  
+0482 shim  
+0483 wiggle  
+0484 rob rɑ́b  
+0485 spoil  
+0486 fidget  
+0487 freaky  
+0488 derail  
+0489 scent  
+0490 descent  
+0491 intense  
+0492 inept  
+0493 brat brǽt  
+0494 elapse ilǽps  
+0495 sufferer sʌ́fərər  
+0496 smash smǽʃ  
+0497 sneaky  
+0498 decay dikéi  
+0499 corndog  
+0500 duke  
 
 0451 複数形  
 0452 Past tense and past participle of overthink.  
@@ -957,3 +987,75 @@
 0468 お互いの Thank you. -> Thanks is mutual. お互いさまです  
 0469 ハト  
 0470 保有車両  
+0471 取得  
+0472 産出する  
+0473 添付する  
+0474 仕様どおりの名前と型を持つがなにもしない関数  
+0475 探検  
+0476 探検する  
+0477 ありそうな  
+0478 面倒な  
+0479 制限  
+0480 健全な  
+0481 健全性  
+0482 隙間を埋めて調整するくさび  
+0483 くねくね動く  
+0484 強盗を働く  
+0485 台無しにする  
+0486 そわそわする  
+0487 気まぐれな  
+0488 脱線させる  
+0489 香り  
+0490 下落  
+0491 激しい  
+0492 無能な  
+0493 がき (侮辱的)  
+0494 経過する  
+0495 苦しんでいる人  
+0496 粉砕する  
+0497 コソコソする  
+0498 腐る  
+0499 アメリカンドッグ  
+0500 公爵  
+
+0501 lucid lúːsid  
+0502 shame  
+0503 ashamed  
+0504 drown dráun  
+0505 lying  
+0506 duvet duːvéi  
+0507 brutal brúːtəl  
+0508 undermine ʌ̀ndərmáin  
+0509 tit  
+0510 candlelit kǽndəllìt  
+0511 loot  
+0512 horny hɔ́ːni  
+0513 ditto dítou  
+0514 bow bɑ́u  
+0515 edge  
+0516 traumatize tráumətàiz  
+0517 congrats kəngrǽts  
+0518 ridiculous  
+0519 liminal  
+0520 starry stɑ́ri  
+
+0501 明快な  
+0502 恥ずかしさ  
+0503 恥ずかしい  
+0504 溺死する  
+0505 lie の現在進行形  
+0506 羽毛布団  
+0507 赤裸々な  
+0508 名声などを台無しにする  
+0509 乳首  
+0510 ろうそくの明かりに照らされた  
+0511 盗む  
+0512 欲情した  
+0513 同じ  
+0514 おじぎする  
+0515 ジリジリと追いやる  
+0516 精神的ショックを与える  
+0517 congratulations  
+0518 ばかげた  
+0519 感知できるか否かの境目にある  
+0520 星の  
