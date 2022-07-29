@@ -122,6 +122,11 @@ I assume (that) you will show this email to your subordinates. : あなたは、
 
 I was kind of aware of it. なんとなく気づいてた  
 
+### back
+
+come back, go back, get back, be back  
+[“come back・go back・get back” の違いは？「くる・いく」を理解できればOK](https://eigotime.net/come-back-go-back-get-back)  
+
 ### beg
 
 I'm begging you. お願いですから  
