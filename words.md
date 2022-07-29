@@ -1043,6 +1043,12 @@
 0523 pog  
 0524 pudding  
 0525 custard kʌ́stərd  
+0526 tailor  
+0527 invocation  
+0528 belong  
+0529 glimpse glímps  
+0530 glamorous glǽmərəs  
+0531 endorse endɔ́rs  
 
 0501 明快な  
 0502 恥ずかしさ  
@@ -1069,3 +1075,9 @@
 0523 めんこ  
 0524 プディング ⊃ プリン = custard pudding  
 0525 カスタード  
+0526 調整する  
+0527 起動  
+0528 属する belong to  
+0529 ちらっと見る  
+0530 魅惑的な  
+0531 支援する  
