@@ -1042,6 +1042,7 @@
 0522 everlasting èvərlǽstiŋ  
 0523 pog  
 0524 pudding  
+0525 custard kʌ́stərd  
 
 0501 明快な  
 0502 恥ずかしさ  
@@ -1067,3 +1068,4 @@
 0522 永遠につづく  
 0523 めんこ  
 0524 プディング ⊃ プリン = custard pudding  
+0525 カスタード  
