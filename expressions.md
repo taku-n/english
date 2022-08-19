@@ -131,6 +131,12 @@ come back, go back, get back, be back
 
 I'm begging you. お願いですから  
 
+### bet
+
+Bet. 了解  
+I bet. そうに違いない (I agree. よりカジュアルかつ強い)  
+You bet. もちろん どういたしまして (カジュアル)  
+
 ### bore
 
 Only boring people get bored.  
@@ -257,6 +263,10 @@ I have a pain in my eye. 目が痛い
 久しぶりに...したい的なことを言いたいとき  
 I want to eat Yakiniku. I haven't had it in so long.  
 
+### head
+
+get into someone's head 人を理解する  
+
 ### hear
 
 Have you ever heard of (it|him|her|them)?  
@@ -330,6 +340,10 @@ I just wish I could talk to you one last time. : 最後にもう一度あなた�
 I don't think it will last long.  
 I don't think our relationship will last.  
 長く続く気がしない  
+
+### leave
+
+Let's leave it at that. この話は終わりにしよう  
 
 ### make
 
@@ -453,6 +467,7 @@ No rush. ゆっくりね
 
 "Please don't say something like that" とは「そんなこと言わないでください」  
 Don't say that.  
+You don't say.  マジで?  
 
 ### see
 
@@ -511,6 +526,10 @@ I can't stop shaking.
 ### shout
 
 Give me a shout. 声をかけてね  
+
+### sleep
+
+Sleep well.  よく寝てね  
 
 ### so
 
@@ -670,6 +689,7 @@ sub: subtitle
 sus: suspicious 怪しい  
 welp: well + help 希望がない感じを伴う  
 ytd: year to date 年初来  
+fbi: federal bureau of investigation  
 
 ## Idioms
 
@@ -798,6 +818,16 @@ ytd: year to date 年初来
 0067 come across  
 0068 mean to  
 0069 in terms of  
+0070 bottom right  
+0071 in a nutshell  
+0072 similar to  
+0073 make an effort  
+0074 keep in mind  
+0075 full stop  
+0076 run into  
+0077 in the middle of  
+0078 take on  
+0079 how come  
 
 0051 頭を寄りかける  
 0052 出て行け  
@@ -818,3 +848,13 @@ ytd: year to date 年初来
 0067 出くわす  
 0068 するつもりである  
 0069 に関して言うと  
+0070 右下  
+0071 一言で言えば  
+0072 似ている  
+0073 努力する  
+0074 覚えておく  
+0075 period  
+0076 偶然に出会う  
+0077 途中で  
+0078 挑戦する  
+0079 why  
