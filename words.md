@@ -99,7 +99,7 @@
 0096 ammeter ǽmmìtər  
 0097 malfunction mæ̀lfʌ́ŋkʃən  
 0098 reward riwɔ́rd  
-0099 desperation dèspəréiʃən  
+0099 desperation dèspəréiʃən *  
 0100 overthink  
 
 0000 反逆者  
@@ -210,7 +210,7 @@
 0104 charm  
 0105 pretty  
 0106 not faze  
-0107 jar  
+0107 jar *  
 0108 assume əsúːm  
 0109 subordinate《形・名》səbɔ́rdənit《動》səbɔ́rdənèit  
 0110 orgy  
@@ -229,7 +229,7 @@
 0123 adjective ǽdʒiktiv  
 0124 noun  
 0125 goodwill gúdwíl  
-0126 pluck  
+0126 pluck *  
 0127 spirit  
 0128 bio báiou  
 0129 profile próufail  
@@ -264,10 +264,10 @@
 0158 move  
 0159 touch  
 0160 furry fə́ːri  
-0161 wobble wɑ́bl  
+0161 wobble wɑ́bl *  
 0162 argue ɑ́rgjuː  
 0163 deceive *  
-0164 dedication  
+0164 dedication *  
 0165 complacent kəmpléisənt *  
 0166 embrace  
 0167 enthusiastic  
@@ -727,7 +727,7 @@
 0363 inflatable infléitəbl  
 0364 riot ráiət  
 0365 sanctuary sǽŋktʃuèri  
-0366 snuggle snʌ́gl  
+0366 snuggle snʌ́gl (spell) *  
 0367 clumsily klʌ́mzili  
 0368 tribute tríbjuːt  
 0369 nope nóup  
@@ -1049,6 +1049,25 @@
 0529 glimpse glímps  
 0530 glamorous glǽmərəs  
 0531 endorse endɔ́rs  
+0532 affinity  
+0533 advocate  
+0534 ordinarily ɔ̀rdənérəli  
+0535 cheating  
+0536 defiant difáiənt  
+0537 contrary kɔ́ntrəri  
+0538 totally  
+0539 paperweight péipəwèit  
+0540 span spǽn  
+0541 giveaway gívəwèi  
+0542 blindly  
+0543 relevant réləvənt  
+0544 hideout háidàut  
+0545 courtesy kə́ːrtəsi  
+0546 narrative nǽrətiv  
+0547 inn ín  
+0548 snag  
+0549 shrink  
+0550 compassion  
 
 0501 明快な  
 0502 恥ずかしさ  
@@ -1081,3 +1100,108 @@
 0529 ちらっと見る  
 0530 魅惑的な  
 0531 支援する  
+0532 一体感  
+0533 支持する  
+0534 普通に  
+0535 浮気  
+0536 反抗的な 素直でない  
+0537 正反対の 素直でない  
+0538 まったく  
+0539 文鎮  
+0540 長さ  
+0541 無料サンプル  
+0542 よく考えずに  
+0543 関係のある  
+0544 隠れ家  
+0545 礼儀正しさ  
+0546 物語  
+0547 宿屋  
+0548 ほつれ  
+0549 縮む  
+0550 思いやり  
+
+0551 hydrate  
+0552 scumbag skʌ́mbæ̀g  
+0553 mushy mʌ́ʃi  
+0554 dread  
+0555 comfort kʌ́mfərt  
+0556 sever sévər  
+0557 compete  
+0558 bureau bjúərou  
+0559 ditch  
+0560 subsidy sʌ́bsədi  
+0561 clumsy klʌ́mzi  
+0562 stray  
+0563 dis  
+0564 savory séivəri  
+0565 eventually  
+0566 supreme supríːm  
+0567 doom  
+0568 transliterate trænslítərèit  
+0569 sleepless slíːpləs  
+0570 accessory əksésəri (pronunciation) *  
+0571 pronunciation prənʌ̀nsiéiʃən (spell | pronunciation) *  
+0572 refurbishment rifə́ːrbiʃmənt  
+0573 slut slʌ́t  
+0574 overdone òuvərdʌ́n  
+0575 curettage kjùrətɑ́ːʒ  
+0576 lore lɔr  
+0577 grain  
+0578 bloom  
+0579 revisitation  
+0580 reincarnator  
+0581 neatness  
+0582 bait  
+0583 elbow  
+0584 rotten rɑ́tn  
+0585 ethereal iθíriəl  
+0586 bar  
+0587 crunch  
+0588 attach  
+0589 approve əprúːv  
+0590 instigator  
+0591 amend  
+0592 pick-me-up  
+
+0551 潤いを与える  
+0552 気持ち悪い人  
+0553 どろどろに形が崩れて  
+0554 ひどく怖がる ひどく心配する  
+0555 慰める  
+0556 切る 関係を断つ  
+0557 立ち向かう  
+0558 事務局  
+0559 溝を掘る  
+0560 補助金  
+0561 不器用な  
+0562 迷子  
+0563 ディスる  
+0564 味がピリッとした  
+0565 最終的に  
+0566 最上位の  
+0567 破滅  
+0568 別の言語で書き直す  
+0569 不眠症の  
+0570 アクセサリ  
+0571 発音  
+0572 改修  
+0573 尻軽女  
+0574 度を越した  
+0575 掻爬術  
+0576 伝承  
+0577 砂などの粒  
+0578 プランクトンなどの大発生  
+0579 再訪  
+0580 転生者  
+0581 こぎれいさ  
+0582 だましておびき寄せる  
+0583 ひじ  
+0584 腐った  
+0585 極めて優美な この世のものとは思えない  
+0586 出入りを禁じる  
+0587 噛み砕く  
+0588 取り付ける The power switch is attached to the side panel.  
+0589 承認する  
+0590 扇動者  
+0591 法律を改正する  
+0592 元気づけの一杯  
