@@ -828,6 +828,8 @@ fbi: federal bureau of investigation
 0077 in the middle of  
 0078 take on  
 0079 how come  
+0080 human relations problems  
+0081 the back of the hand  
 
 0051 頭を寄りかける  
 0052 出て行け  
@@ -858,3 +860,5 @@ fbi: federal bureau of investigation
 0077 途中で  
 0078 挑戦する  
 0079 why  
+0080 人間関係のトラブル  
+0081 手の甲  
