@@ -343,7 +343,11 @@ I don't think our relationship will last.
 
 ### leave
 
-Let's leave it at that. この話は終わりにしよう  
+Let us leave it at that. この話は終わりにしよう  
+
+### look
+
+You do not look well. 具合が悪そうだね  
 
 ### make
 
