@@ -627,7 +627,7 @@
 0315 triplet  
 0316 threesome  
 0317 reincarnate《動》rìːinkɑ́ːrneit 《形》rìːinkɑ́ːrnət  
-0318 occasionally spell  
+0318 occasionally spell = on occasion *  
 0319 hyphen háifn  
 0320 booth  
 0321 vibe  
