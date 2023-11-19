@@ -205,3 +205,37 @@
 0598 麻薬注射で興奮させる  
 0599 強要する  
 0600 場合  
+
+0601 theocratic θì(ː)əkrǽtik  
+0602 incorporate  
+0603 vital  
+0604 comply  
+0605 venue  
+0606 assess əsés  
+0607 hazard hǽzərd  
+0608 overseer óuvərsìːər <アクセント>  
+0609 move-in  
+0610 supervision  
+0611 ladder  
+0612 scaffolding  
+0613 aerial έəriəl  
+0614 pinch  
+0615 constrain  
+0616 quarter kwɔ́ːrtər  
+
+0601 神権政治の  
+0602 包含する  
+0603 不可欠な  
+0604 従う  
+0605 会場  
+0606 評価する  
+0607 危険  
+0608 <アクセント>  
+0609 入居  
+0610 指揮  
+0611 はしご  
+0612 足場  
+0613 空中の  
+0614 はさむ  
+0615 抑圧する  
+0616 区画  
