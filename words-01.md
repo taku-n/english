@@ -1,6 +1,6 @@
 # Words
 
-0001 rot rɑ́t  
+0001 rot rɑ́t *  
 0002 smack  
 0003 feelings  
 0004 anxiety is a noun  
@@ -10,18 +10,18 @@
 0008 confession  
 0009 endearment *  
 0010 sue  
-0011 bork  
+0011 bork *  
 0012 handsome hǽnsəm  
-0013 frighten  
-0014 indifferent  
+0013 frighten *  
+0014 indifferent *  
 0015 toss  
 0016 disgust  
 0017 dumb  
 0018 tide  
 0019 deserve  
-0020 rebel 名形前動後《名・形》rébl《動》ribél  
-0021 ledge  
-0022 affair  
+0020 rebel * 名形前動後《名・形》rébl《動》ribél  
+0021 ledge *  
+0022 affair *  
 0023 discrimination  
 0024 accuracy  
 0025 flirt flə́ːrt  
@@ -33,19 +33,19 @@
 0031 tease  
 0032 pet  
 0033 silly  
-0034 incarnate《形》inkɑ́ːrnət《動》inkɑ́ːrneit *  
+0034 incarnate *《形》inkɑ́ːrnət《動》inkɑ́ːrneit  
 0035 jumpy  
-0036 detonation  
-0037 radius  
+0036 detonation *  
+0037 radius *  
 0038 mess  
 0039 breakdown  
 0040 butt  
-0041 fortress  
-0042 bastard bǽstərd  
+0041 fortress *  
+0042 bastard * bǽstərd  
 0043 jerk  
 0044 tomboy  
 0045 simp  
-0046 creep  
+0046 creep *  
 0047 convulsion kənvʌ́lʃən *  
 0048 addict 名前動後  
 0049 stargaze  
@@ -67,7 +67,7 @@
 0065 envy  
 0066 meridian  
 0067 azure  
-0068 affect  
+0068 affect *  
 0069 sweetheart  
 0070 cherish *  
 0071 unfixable  
@@ -76,8 +76,8 @@
 0074 close  
 0075 adore ədɔ́r  
 0076 determine  
-0077 constraint kənstréint *  
-0078 cuckold  
+0077 constraint * kənstréint  
+0078 cuckold *  
 0079 negation nigéiʃən  
 0080 praise  
 0081 cage  
@@ -94,11 +94,11 @@
 0092 retard  
 0093 pretender  
 0094 brick  
-0095 scatter  
-0096 ammeter ǽmmìtər  
+0095 scatter *  
+0096 ammeter * ǽmmìtər  
 0097 malfunction mæ̀lfʌ́ŋkʃən  
 0098 reward riwɔ́rd  
-0099 desperation dèspəréiʃən *  
+0099 desperation * dèspəréiʃən  
 0100 overthink  
 
 0001 腐る  
